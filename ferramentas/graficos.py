@@ -153,14 +153,14 @@ def g07():
 def g08():
     r = pd.read_csv(DER / "brasil_fertilizantes_resumo.csv")
     u = r[r.recorte.str.contains("ureia", case=False) & (r.ano >= 2019)]
-    f, a = nova("O Brasil depende do Golfo? Menos que o número viral", "Ureia importada por origem. A base dá o país, não o porto; Omã tem fábrica fora do estreito", top=0.8)
+    f, a = nova("O Brasil depende do Golfo? Depende de como se conta", "Ureia importada por origem. A base dá o país, não o porto; Omã tem fábrica fora do estreito", top=0.8)
     anos = u.ano.astype(str).where(u.ano < 2026, "2026 parcial")
     a.bar(anos, u.fatia_dentro_do_golfo_pct, color=TIJOLO, label="dentro do Golfo", width=0.6)
     a.bar(anos, u.fatia_oma_pct, bottom=u.fatia_dentro_do_golfo_pct, color=OURO, label="Omã", width=0.6)
     for x, g, o in zip(anos, u.fatia_dentro_do_golfo_pct, u.fatia_oma_pct):
         a.text(x, g + o + 0.8, f"{g + o:.0f}%".replace(".", ","), ha="center", fontsize=22, color=TINTA, bbox=dict(fc="white", ec="none", pad=1), zorder=5)
     a.axhline(41, color=TINTA, lw=2, ls="--")
-    a.text(7.4, 42, "41%: o que circula", fontsize=20, color=TINTA, ha="right")
+    a.text(7.4, 42, "41%: consultoria, pelo caminho do navio", fontsize=20, color=TINTA, ha="right")
     a.legend(frameon=False, fontsize=20, loc="upper right")
     a.set_ylabel("% das toneladas")
     a.set_ylim(0, 60)

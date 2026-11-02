@@ -132,7 +132,7 @@ Mercados do dia:
 ## 7. O Brasil
 
 - **Campanha nacional:** não achei. ⚠️ A busca do MIDR não foi legível, e o Plano Nacional não foi lido. Há orientações estaduais (`brasil_orientacao_oficial.md`).
-- **Ureia:** em 2025, 19,84% de dentro do Golfo e 15,56% de Omã, contra os 41% que circulam. A base dá o país, não o porto. Em 2026, até setembro, 12,37% e 11,96%.
+- **Ureia:** em 2025, 19,84% de dentro do Golfo e 15,56% de Omã, contra os 41% de uma consultoria, que conta o caminho do navio. A base oficial dá o país, não o porto. Em 2026, até setembro, 12,37% e 11,96%.
 - **Preço e volume:** US$ 585,9 em 2026-06, US$ 406,2 em 2026-09. As toneladas caíram 21% de janeiro a setembro contra 2025.
 - **Comida:** 4,21% em 12 meses em 2026-09, contra -0,09% em fevereiro. A causa não está separada.
 - **Falta de serviço:** dos 10 grandes casos da tabela, 0 foram ataque, e o maior durou 22 dias (`brasil_interrupcoes_longas.csv`).

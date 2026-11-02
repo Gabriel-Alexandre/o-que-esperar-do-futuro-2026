@@ -116,7 +116,7 @@ Mercados do dia:
 ## 7. O Brasil
 
 - **Campanha nacional:** não achei. ⚠️ A busca do MIDR não foi legível, e o Plano Nacional não foi lido. Há orientações estaduais (`brasil_orientacao_oficial.md`).
-- **Ureia:** em 2025, {n(b['golfo_2025_pct'])}% de dentro do Golfo e {n(b['oma_2025_pct'])}% de Omã, contra os 41% que circulam. A base dá o país, não o porto. Em 2026, até setembro, {n(b['golfo_2026_pct'])}% e {n(b['oma_2026_pct'])}%.
+- **Ureia:** em 2025, {n(b['golfo_2025_pct'])}% de dentro do Golfo e {n(b['oma_2025_pct'])}% de Omã, contra os 41% de uma consultoria, que conta o caminho do navio. A base oficial dá o país, não o porto. Em 2026, até setembro, {n(b['golfo_2026_pct'])}% e {n(b['oma_2026_pct'])}%.
 - **Preço e volume:** US$ {n(b['preco_pico_usd'])} em {b['preco_pico_mes']}, US$ {n(b['preco_ultimo_usd'])} em {b['preco_ultimo_mes']}. As toneladas caíram 21% de janeiro a setembro contra 2025.
 - **Comida:** {n(b['alimentos_12m_ultimo_pct'])}% em 12 meses em {b['alimentos_ultimo_mes']}, contra {n(b['alimentos_fev_2026_pct'])}% em fevereiro. A causa não está separada.
 - **Falta de serviço:** dos {b['casos']} grandes casos da tabela, {b['casos_com_ataque']} foram ataque, e o maior durou {round(b['maior_dias'])} dias (`brasil_interrupcoes_longas.csv`).

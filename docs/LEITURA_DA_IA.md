@@ -10,6 +10,6 @@ Análise feita pelo Claude em 02/nov/2026. Ela é uma opinião apoiada nos dados
 
 **A IA entra nisso de duas maneiras.** Como ferramenta de ataque, com alerta oficial de script gerado por IA contra controladores de energia e água. Como analista, nesta análise, e aí com um limite que a pesquisa mostra: modelos ainda ficam atrás dos melhores previsores humanos. Por isso o registro.
 
-**Para o Brasil, o que os dados sustentam não é a guerra.** É apagão por temporal, seca, preço de comida e diesel. Nenhum dos grandes casos da tabela foi ataque, e o Amapá ficou 22 dias. O número viral de 41% do adubo por Ormuz não aparece em 2025 no dado oficial (19,84% de dentro do Golfo, 35,40% somando Omã), e o volume caiu 21% em 2026. Três dias de água e comida em casa têm razão de ser aqui, e por outro motivo.
+**Para o Brasil, o que os dados sustentam não é a guerra.** É apagão por temporal, seca, preço de comida e diesel. Nenhum dos grandes casos da tabela foi ataque, e o Amapá ficou 22 dias. Os 41% do adubo por Ormuz são de uma consultoria que conta o caminho do navio; o dado oficial conta o país de origem e dá, em 2025, 19,84% de dentro do Golfo e 35,40% somando Omã, e o volume caiu 21% em 2026. Três dias de água e comida em casa têm razão de ser aqui, e por outro motivo.
 
 **O que eu mudaria de opinião ao ver:** convocação ampla, evacuação planejada ou racionamento em vigor em país da OTAN ou em Taiwan.

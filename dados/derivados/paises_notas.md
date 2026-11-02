@@ -22,7 +22,7 @@ Captura em 02/nov/2026. Cada linha aponta para um texto lido em `oficiais/<nome>
 | Prazo maior que 72 h | NOR, SWE, EST, POL, CHE, TWN (7 dias), DEU (10), AUT (10 a 14), SGP (14 dias de comida) |
 | Prazo menor que 72 h | ARG (1 dia), HRV (2 dias) |
 | Orientação sem número de dias | USA, MEX, COL, AUS, e ITA fora da lista |
-| Palavra guerra no documento | FRA, DEU, NLD, NOR, SWE, EST, LVA, POL, TWN, SGP (10 dos 33) e a UE |
+| Palavra guerra no documento | FRA, DEU, NLD, NOR, SWE, EST, LVA, POL, TWN, SGP (12 dos 33) e a UE |
 
 ## Data da primeira orientação achada (o que é novo e o que é antigo)
 
@@ -39,7 +39,7 @@ Captura em 02/nov/2026. Cada linha aponta para um texto lido em `oficiais/<nome>
 4. África do Sul e Filipinas na lista: o documento lido é da Cidade do Cabo e de um escritório regional do DSWD. Austrália: o NEMA fala em "several days" e dá "três dias" como exemplo; prazo real é por estado.
 5. Estados Unidos e Índia: sem número de dias (Ready.gov diz "several days").
 6. "72 horas" não é o padrão: nove países da lista pedem uma semana ou mais como meta (NOR, SWE, EST, POL, CHE, TWN, DEU, AUT e SGP, que pede duas semanas de comida).
-7. Guerra: só 10 dos 33 documentos usam a palavra. Dinamarca explica na própria página de perguntas por que não escreve sobre guerra; a Bélgica não usa a palavra (matéria) e a Tchéquia diz que o guia é para crises não militares. Estados Unidos, Canadá, Japão, Nova Zelândia e Irlanda falam de clima e apagão.
+7. Guerra: só 12 dos 33 documentos usam a palavra. Dinamarca explica na própria página de perguntas por que não escreve sobre guerra; a Bélgica não usa a palavra (matéria) e a Tchéquia diz que o guia é para crises não militares. Estados Unidos, Canadá, Japão, Nova Zelândia e Irlanda falam de clima e apagão.
 8. Itália (fora da lista): o manual de 2012 não traz número de dias; Espanha só tem orientação regional (Catalunha); Portugal sem página de kit lida.
 
 ## Lacunas e limites
