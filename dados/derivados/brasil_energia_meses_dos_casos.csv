@@ -1,0 +1,7 @@
+caso,agente,ano,mes,consumidores,dec_divulgado_horas_no_mes,dec_total_com_expurgos_horas_no_mes,dec_situacao_emergencia_horas_no_mes,dec_dia_critico_horas_no_mes,dec_externo_e_ons_horas_no_mes
+apagão do Amapá,CEA,2020,11,215466,1.11,1.11,0.0,0.0,0.0
+Enel SP nov/2023,ELETROPAULO,2023,11,7802570,0.78,10.92,9.79,0.33,0.02
+Enel SP out/2024,ELETROPAULO,2024,10,7925071,0.83,11.24,9.73,0.67,0.0
+Enel SP dez/2025,ELETROPAULO,2025,12,8065368,0.87,9.93,8.77,0.28,0.0
+enchentes do RS,CEEE-D,2024,5,1903865,0.29,34.87,34.47,0.09,0.02
+enchentes do RS,RGE SUL,2024,5,2929436,0.36,13.26,12.78,0.02,0.1

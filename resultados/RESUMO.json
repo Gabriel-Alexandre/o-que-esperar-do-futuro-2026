@@ -1,0 +1,472 @@
+{
+  "historia": {
+    "todos": {
+      "24m": {
+        "k": 5,
+        "n": 46,
+        "pct": 10.9,
+        "ic95": [
+          0.047,
+          0.23
+        ]
+      },
+      "60m": {
+        "k": 6,
+        "n": 38,
+        "pct": 15.8,
+        "ic95": [
+          0.074,
+          0.304
+        ]
+      },
+      "episodios": 51
+    },
+    "com_sinais_duros": {
+      "24m": {
+        "k": 3,
+        "n": 5,
+        "pct": 60.0,
+        "ic95": [
+          0.231,
+          0.882
+        ]
+      },
+      "60m": {
+        "k": 4,
+        "n": 5,
+        "pct": 80.0,
+        "ic95": [
+          0.376,
+          0.964
+        ]
+      },
+      "episodios": 5
+    },
+    "sem_sinais_duros": {
+      "24m": {
+        "k": 2,
+        "n": 41,
+        "pct": 4.9,
+        "ic95": [
+          0.013,
+          0.161
+        ]
+      },
+      "60m": {
+        "k": 2,
+        "n": 33,
+        "pct": 6.1,
+        "ic95": [
+          0.017,
+          0.196
+        ]
+      },
+      "episodios": 46
+    },
+    "ameaca_estatal": {
+      "24m": {
+        "k": 5,
+        "n": 28,
+        "pct": 17.9,
+        "ic95": [
+          0.079,
+          0.356
+        ]
+      },
+      "60m": {
+        "k": 6,
+        "n": 24,
+        "pct": 25.0,
+        "ic95": [
+          0.12,
+          0.449
+        ]
+      },
+      "episodios": 31
+    },
+    "primeiro_de_cada_pais": {
+      "24m": {
+        "k": 3,
+        "n": 21,
+        "pct": 14.3,
+        "ic95": [
+          0.05,
+          0.346
+        ]
+      },
+      "60m": {
+        "k": 4,
+        "n": 19,
+        "pct": 21.1,
+        "ic95": [
+          0.085,
+          0.433
+        ]
+      },
+      "episodios": 23
+    },
+    "depois_de_2000": {
+      "24m": {
+        "k": 0,
+        "n": 25,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          0.133
+        ]
+      },
+      "60m": {
+        "k": 0,
+        "n": 17,
+        "pct": 0.0,
+        "ic95": [
+          0.0,
+          0.184
+        ]
+      },
+      "episodios": 30
+    },
+    "atacado_por_quem_temia_60m": {
+      "k": 3,
+      "n": 38,
+      "pct": 7.9,
+      "ic95": [
+        0.027,
+        0.208
+      ]
+    },
+    "faixa_so_o_pedido_60m": {
+      "sem iniciadores nem Malvinas": {
+        "k": 0,
+        "n": 31,
+        "pct": 0.0,
+        "ic95": [
+          -0.0,
+          0.11
+        ]
+      },
+      "regra principal": {
+        "k": 2,
+        "n": 33,
+        "pct": 6.1,
+        "ic95": [
+          0.017,
+          0.196
+        ]
+      },
+      "um voto por país": {
+        "k": 2,
+        "n": 18,
+        "pct": 11.1,
+        "ic95": [
+          0.031,
+          0.328
+        ]
+      },
+      "contando os 3 estudos de caso": {
+        "k": 5,
+        "n": 36,
+        "pct": 13.9,
+        "ic95": [
+          0.061,
+          0.287
+        ]
+      },
+      "estudos de caso e um voto por país": {
+        "k": 5,
+        "n": 21,
+        "pct": 23.8,
+        "ic95": [
+          0.106,
+          0.451
+        ]
+      }
+    },
+    "episodios_na_taxa": 51,
+    "estudos_de_caso": [
+      "UA-2021",
+      "CN-1969",
+      "IN-2025"
+    ],
+    "guerras_sem_campanha": 13
+  },
+  "sinais": [
+    {
+      "momento": "HOJE-DE",
+      "pais": "Alemanha",
+      "pontos": 2.5,
+      "de": 7,
+      "sem_dado": 3,
+      "sim": 0
+    },
+    {
+      "momento": "HOJE-FI",
+      "pais": "Finlândia",
+      "pontos": 1.5,
+      "de": 4,
+      "sem_dado": 6,
+      "sim": 0
+    },
+    {
+      "momento": "HOJE-JP",
+      "pais": "Japão",
+      "pontos": 1.0,
+      "de": 3,
+      "sem_dado": 7,
+      "sim": 0
+    },
+    {
+      "momento": "HOJE-PL",
+      "pais": "Polônia",
+      "pontos": 2.5,
+      "de": 6,
+      "sem_dado": 4,
+      "sim": 1
+    },
+    {
+      "momento": "HOJE-SE",
+      "pais": "Suécia",
+      "pontos": 2.5,
+      "de": 5,
+      "sem_dado": 5,
+      "sim": 1
+    },
+    {
+      "momento": "HOJE-TW",
+      "pais": "Taiwan",
+      "pontos": 2.0,
+      "de": 6,
+      "sem_dado": 4,
+      "sim": 0
+    },
+    {
+      "momento": "HOJE-UK",
+      "pais": "Reino Unido",
+      "pontos": 0.5,
+      "de": 4,
+      "sem_dado": 6,
+      "sim": 0
+    },
+    {
+      "momento": "HOJE-US",
+      "pais": "EUA",
+      "pontos": 0.0,
+      "de": 2,
+      "sem_dado": 8,
+      "sim": 0
+    },
+    {
+      "momento": "UA-2022",
+      "pais": "Ucrânia",
+      "pontos": 2.5,
+      "de": 8,
+      "sem_dado": 2,
+      "sim": 1
+    },
+    {
+      "momento": "UK-1939",
+      "pais": "Reino Unido",
+      "pontos": 6.0,
+      "de": 9,
+      "sem_dado": 1,
+      "sim": 3
+    },
+    {
+      "momento": "UK-1980",
+      "pais": "Reino Unido",
+      "pontos": 2.0,
+      "de": 5,
+      "sem_dado": 5,
+      "sim": 0
+    },
+    {
+      "momento": "US-1961",
+      "pais": "EUA",
+      "pontos": 1.5,
+      "de": 5,
+      "sem_dado": 5,
+      "sim": 0
+    }
+  ],
+  "paises": {
+    "na_lista": 33,
+    "por_abrangencia": {
+      "nacional": 25,
+      "sem_prazo": 5,
+      "regional": 2,
+      "sem_campanha": 1
+    },
+    "com_data_primeira": 17,
+    "antes_de_2022": 9,
+    "de_2022_em_diante": 8,
+    "em_2026": 0,
+    "menciona_guerra": 12,
+    "com_prazo": 27,
+    "ate_3_dias": 16,
+    "de_7_a_14": 11,
+    "mediana_dias": 3.0,
+    "termometro": {
+      "n": 26,
+      "spearman_todos": -0.3,
+      "p_todos": 0.139,
+      "n_europa": 18,
+      "spearman_europa": -0.3,
+      "p_europa": 0.233
+    },
+    "km_mediana_cita_guerra": 530,
+    "km_mediana_nao_cita": 2534
+  },
+  "hipoteses": {
+    "tabela": [
+      {
+        "hipotese": "H1a_guerra_com_data_sabida",
+        "contra_1": 14.5,
+        "a_favor_1": 2.0,
+        "contra_2": 11.0,
+        "a_favor_2": 2.0
+      },
+      {
+        "hipotese": "H5_choque_de_abastecimento",
+        "contra_1": 5.0,
+        "a_favor_1": 2.0,
+        "contra_2": 2.0,
+        "a_favor_2": 3.0
+      },
+      {
+        "hipotese": "H2_seguro_geral_sem_guerra_em_mente",
+        "contra_1": 4.0,
+        "a_favor_1": 7.5,
+        "contra_2": 2.0,
+        "a_favor_2": 13.5
+      },
+      {
+        "hipotese": "H1b_guerra_plausivel_sem_data",
+        "contra_1": 0.0,
+        "a_favor_1": 12.0,
+        "contra_2": 0.0,
+        "a_favor_2": 13.0
+      },
+      {
+        "hipotese": "H3_clima_e_desastre",
+        "contra_1": 0.0,
+        "a_favor_1": 6.5,
+        "contra_2": 0.0,
+        "a_favor_2": 6.0
+      },
+      {
+        "hipotese": "H4_ciber_e_ia",
+        "contra_1": 0.0,
+        "a_favor_1": 11.5,
+        "contra_2": 0.0,
+        "a_favor_2": 9.0
+      },
+      {
+        "hipotese": "H6_copia_entre_governos",
+        "contra_1": 0.0,
+        "a_favor_1": 6.5,
+        "contra_2": 0.0,
+        "a_favor_2": 3.0
+      },
+      {
+        "hipotese": "H7_politica_e_orcamento",
+        "contra_1": 0.0,
+        "a_favor_1": 5.5,
+        "contra_2": 0.0,
+        "a_favor_2": 0.5
+      }
+    ],
+    "celulas": 168,
+    "celulas_iguais": 131,
+    "pct_iguais": 78.0
+  },
+  "videos": {
+    "videos": 24,
+    "afirmacoes": 283,
+    "por_selo": {
+      "confirmado": 140,
+      "opiniao": 60,
+      "nao_confirmado": 53,
+      "distorcido": 27,
+      "falso": 3
+    },
+    "views_somadas": 12391024,
+    "vendem_algo": 3,
+    "dizem_guerra_vem": 3
+  },
+  "mercados": [
+    {
+      "pergunta": "Will China invade Taiwan by December 31, 2027?",
+      "chance_sim": 0.095,
+      "fim": "2028-01-01",
+      "volume_usd": 3579983,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "NATO article 5 before 2027?",
+      "chance_sim": 0.0395,
+      "fim": "2027-01-01",
+      "volume_usd": 304062,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "NATO x Russia military clash by December 31, 2026?",
+      "chance_sim": 0.125,
+      "fim": "2027-01-01",
+      "volume_usd": 3542763,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "Will Russia invade a NATO country by December 31, 2026?",
+      "chance_sim": 0.0315,
+      "fim": "2027-01-01",
+      "volume_usd": 473853,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "Russia military action against an EU country by December 31, 2026?",
+      "chance_sim": 0.055,
+      "fim": "2027-01-01",
+      "volume_usd": 269728,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "Russia military action against an EU country by December 31, 2027?",
+      "chance_sim": 0.205,
+      "fim": "2028-01-01",
+      "volume_usd": 12020,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "Will Strait of Hormuz traffic not return to normal in 2026?",
+      "chance_sim": 0.885,
+      "fim": "2027-02-01",
+      "volume_usd": 429020,
+      "data_foto": "2026-11-02"
+    },
+    {
+      "pergunta": "US x Russia military clash by December 31, 2026?",
+      "chance_sim": 0.039,
+      "fim": "2027-01-01",
+      "volume_usd": 1087939,
+      "data_foto": "2026-11-02"
+    }
+  ],
+  "brasil": {
+    "ureia_2025_t": 7725046.7,
+    "golfo_2025_pct": 19.84,
+    "oma_2025_pct": 15.56,
+    "golfo_2026_pct": 12.37,
+    "oma_2026_pct": 11.96,
+    "preco_pico_usd": 585.9,
+    "preco_pico_mes": "2026-06",
+    "preco_ultimo_usd": 406.2,
+    "preco_ultimo_mes": "2026-09",
+    "alimentos_12m_ultimo_pct": 4.21,
+    "alimentos_ultimo_mes": "2026-09",
+    "alimentos_fev_2026_pct": -0.09,
+    "casos_com_dias": 6,
+    "casos": 10,
+    "casos_com_ataque": 0,
+    "maior_dias": 22.0
+  }
+}

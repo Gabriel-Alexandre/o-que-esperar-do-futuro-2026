@@ -16,7 +16,7 @@
 | E6 | o que muda no Brasil | dado público | `dados/derivados/brasil_*.csv` |
 | E7 | o que estão dizendo | afirmação por afirmação | `dados/derivados/videos_afirmacoes.csv` |
 
-Relatório por rodadas: `docs/RODADAS.md`. Só as previsões entram em commit antes de qualquer medição, porque tratam do que ainda não aconteceu.
+Relatório por rodadas: `docs/RODADAS.md`. As previsões entraram em commit depois de medir o passado e antes do futuro e dos gráficos, com a hora no git.
 
 ## Regras de fonte
 

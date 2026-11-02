@@ -1,0 +1,22 @@
+id,evidencia,fonte,peso,H1a_guerra_com_data_sabida,H1b_guerra_plausivel_sem_data,H2_seguro_geral_sem_guerra_em_mente,H3_clima_e_desastre,H4_ciber_e_ia,H5_choque_de_abastecimento,H6_copia_entre_governos,H7_politica_e_orcamento
+E01,Prazo pedido vai de 1 a 14 dias; ninguém pede meses. Mas o Reino Unido pediu cerca de uma semana 7 meses antes de 1939 e Kyiv pediu 2 dias 2 meses antes da invasão,paises.csv; hansard-1939-fev; historia_episodios.csv,baixo,N,N,C,C,C,N,C,N
+E02,Nenhuma campanha de 2024 a 2026 vem com evacuação em curso; racionamento em vigor; convocação ampla ou máscara em massa; a Polônia marca programa de abrigos de 2027 a 2031,historia_episodios.csv; sinais.csv,alto,I,N,C,C,C,I,N,N
+E03,As datas vão de 1943 a 2026; a onda não começou de uma vez,paises.csv,alto,I,N,N,N,N,I,C,N
+E04,Guerra aparece em 12 de 33 documentos dos países da lista,paises.csv,medio,N,C,I,N,N,N,N,N
+E05,Japão faz o mesmo pedido por terremoto e vulcão,nikkei-boucho; tenki-boucho,medio,I,N,C,C,N,N,C,N
+E06,Reino Unido diz que a campanha nasceu em plano público de julho e não por ameaça específica,sbt-reino-unido; prepared-britain-checagem,medio,I,N,C,C,C,N,N,N
+E07,Jarvis diz que a campanha põe o Reino Unido em linha com pares europeus,national-feijao-esgotado,medio,N,N,C,N,N,N,C,N
+E08,Funcionário da OTAN em 30/ago: sem ameaça iminente de ataque convencional russo,euromaidan-otan-sem-ataque,alto,I,N,N,N,N,N,N,N
+E09,Chefes de inteligência europeus: teste russo em meses e não anos,theweek-otan-meses; ibtimes-espioes-meses,alto,C,C,I,N,N,N,N,C
+E10,Streeting: 1.000 dias é avaliação de ameaça da OTAN sobre capacidade russa; meta de preparo,lbc-streeting-exercito; ref24,medio,N,C,I,N,N,N,N,C
+E11,Streeting fala em meio à disputa do orçamento de defesa,lbc-streeting-exercito; ref23,baixo,N,N,N,N,N,N,N,C
+E12,Polônia dez/2025; usina britânica jul/2026; água nos EUA jul/2026,therecord-polonia; lbc-usina-quatro-dias; safe-ai-aisn80,alto,N,C,N,N,C,N,N,N
+E13,Alerta de 19/ago: scripts gerados por IA contra controladores de energia e água,pcgamer-nsa-plc,alto,N,C,N,N,C,N,N,N
+E14,Campanha britânica cita clima e ciberataque e não falta de comida,gov-uk-prepare,medio,I,N,C,C,C,I,N,N
+E15,Ormuz segue afetado e S&P vê risco de crise de alimentos; efeito pesado só em 2027,spglobal-crise-alimentos; cnn-rotas-ormuz,medio,N,N,N,N,N,C,N,N
+E16,Noruega; Suécia e Finlândia reconstroem reserva pública de grão desde 2024,irish-times-estoque-mundo,medio,N,C,N,N,N,C,C,N
+E17,FORTRESS: sem custo; sem prazo; pode levar décadas; sem verba imediata,air-space-forces-fortress; memorando-hegseth-fortress,alto,I,C,N,N,C,N,N,C
+E18,Pentágono usa 30 dias em matéria própria e 30; 60 ou 90 no palco; 90 na reportagem,war-gov-marks-tampa; breaking-defense-marks; fox-fortress,baixo,I,N,N,N,N,N,N,N
+E19,Air Force já planejava falta de 30 dias ou mais em 2021,air-space-forces-fortress,medio,I,N,C,C,C,N,N,N
+E20,Mercados: 3% de invasão russa de país da OTAN em 2026; 12% de choque militar OTAN e Rússia em 2026; 20% de ação militar na UE até 2027,mercados.csv,medio,I,C,N,N,N,N,N,N
+E21,Campanha nova só em poucos países nos 30 dias anteriores (Reino Unido; Japão; Bélgica),paises.csv,medio,I,N,N,N,N,N,C,N

@@ -1,0 +1,1097 @@
+ano,recorte,pais,grupo,valor_fob_usd,toneladas,preco_medio_usd_t,fatia_toneladas_pct
+2015,capitulo_31_fertilizantes,TOTAL,total,6602676701,19809853.2,333.3,100.0
+2015,capitulo_31_fertilizantes,Rússia,resto_do_mundo,1226981310,3743071.4,327.8,18.89
+2015,capitulo_31_fertilizantes,Canadá,resto_do_mundo,849521264,2669076.8,318.3,13.47
+2015,capitulo_31_fertilizantes,China,resto_do_mundo,634789782,1841692.8,344.7,9.3
+2015,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,652826842,1639847.5,398.1,8.28
+2015,capitulo_31_fertilizantes,Belarus,resto_do_mundo,511012516,1576357.0,324.2,7.96
+2015,capitulo_31_fertilizantes,Catar,dentro_do_golfo,450031217,1459137.3,308.4,7.37
+2015,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,399198785,1244566.4,320.8,6.28
+2015,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,466684625,1025999.9,454.9,5.18
+2015,capitulo_31_fertilizantes,Israel,resto_do_mundo,238228196,749366.0,317.9,3.78
+2015,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,120267013,538106.0,223.5,2.72
+2015,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,86257937,424076.5,203.4,2.14
+2015,capitulo_31_fertilizantes,Chile,resto_do_mundo,154602632,383588.6,403.0,1.94
+2015,capitulo_31_fertilizantes,Espanha,resto_do_mundo,115919926,337306.2,343.7,1.7
+2015,capitulo_31_fertilizantes,Noruega,resto_do_mundo,89202871,286745.0,311.1,1.45
+2015,capitulo_31_fertilizantes,Egito,resto_do_mundo,42504415,241682.8,175.9,1.22
+2015,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,67590080,185187.9,365.0,0.93
+2015,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,56495475,182358.4,309.8,0.92
+2015,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,54591749,174024.1,313.7,0.88
+2015,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,75845014,169252.9,448.1,0.85
+2015,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,47710721,152305.9,313.3,0.77
+2015,capitulo_31_fertilizantes,Polônia,resto_do_mundo,24780154,121015.7,204.8,0.61
+2015,capitulo_31_fertilizantes,Argentina,resto_do_mundo,26689918,87550.5,304.9,0.44
+2015,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,20821313,73380.8,283.7,0.37
+2015,capitulo_31_fertilizantes,Barein,dentro_do_golfo,18850136,67297.1,280.1,0.34
+2015,capitulo_31_fertilizantes,Líbano,resto_do_mundo,21697007,60500.0,358.6,0.31
+2015,capitulo_31_fertilizantes,México,resto_do_mundo,30574977,58819.2,519.8,0.3
+2015,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,16331315,54953.2,297.2,0.28
+2015,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,12372841,52180.0,237.1,0.26
+2015,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,16320360,44480.0,366.9,0.22
+2015,capitulo_31_fertilizantes,Austrália,resto_do_mundo,17502606,44112.9,396.8,0.22
+2015,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,15678370,33172.1,472.6,0.17
+2015,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,4455264,23564.0,189.1,0.12
+2015,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,6433558,23484.0,274.0,0.12
+2015,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,6507602,18792.0,346.3,0.09
+2015,capitulo_31_fertilizantes,Itália,resto_do_mundo,7952163,4453.5,1785.6,0.02
+2015,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,1544269,4248.0,363.5,0.02
+2015,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,2979026,3504.0,850.2,0.02
+2015,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,1918669,2862.0,670.4,0.01
+2015,capitulo_31_fertilizantes,Índia,resto_do_mundo,1906012,2847.7,669.3,0.01
+2015,capitulo_31_fertilizantes,Suécia,resto_do_mundo,1379434,1868.1,738.4,0.01
+2015,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,163409,876.0,186.5,0.0
+2015,capitulo_31_fertilizantes,França,resto_do_mundo,1603884,613.3,2615.3,0.0
+2015,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,640210,454.0,1410.1,0.0
+2015,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,1469324,376.2,3905.2,0.0
+2015,capitulo_31_fertilizantes,Estônia,resto_do_mundo,81444,229.8,354.4,0.0
+2015,capitulo_31_fertilizantes,Portugal,resto_do_mundo,89501,196.9,454.5,0.0
+2015,capitulo_31_fertilizantes,Turquia,resto_do_mundo,399743,116.3,3436.5,0.0
+2015,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1049829,81.1,12943.9,0.0
+2015,capitulo_31_fertilizantes,Brasil,resto_do_mundo,126115,42.1,2998.5,0.0
+2015,capitulo_31_fertilizantes,Japão,resto_do_mundo,69898,20.2,3467.0,0.0
+2015,capitulo_31_fertilizantes,Equador,resto_do_mundo,15000,12.0,1250.0,0.0
+2015,capitulo_31_fertilizantes,Peru,resto_do_mundo,10980,1.3,8645.7,0.0
+2016,capitulo_31_fertilizantes,TOTAL,total,6001878361,23809188.6,252.1,100.0
+2016,capitulo_31_fertilizantes,Rússia,resto_do_mundo,984554941,4189268.5,235.0,17.6
+2016,capitulo_31_fertilizantes,Canadá,resto_do_mundo,620117782,2720283.6,228.0,11.43
+2016,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,727343660,2283204.0,318.6,9.59
+2016,capitulo_31_fertilizantes,Belarus,resto_do_mundo,427057047,1857606.7,229.9,7.8
+2016,capitulo_31_fertilizantes,China,resto_do_mundo,404289438,1483305.3,272.6,6.23
+2016,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,474091332,1410768.8,336.1,5.93
+2016,capitulo_31_fertilizantes,Catar,dentro_do_golfo,312270857,1369770.3,228.0,5.75
+2016,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,304167647,1243323.3,244.6,5.22
+2016,capitulo_31_fertilizantes,Israel,resto_do_mundo,219111529,933711.2,234.7,3.92
+2016,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,134552404,744898.1,180.6,3.13
+2016,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,211438017,704065.6,300.3,2.96
+2016,capitulo_31_fertilizantes,Chile,resto_do_mundo,151278980,573316.0,263.9,2.41
+2016,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,97357603,546470.9,178.2,2.3
+2016,capitulo_31_fertilizantes,Noruega,resto_do_mundo,127442884,479504.7,265.8,2.01
+2016,capitulo_31_fertilizantes,Espanha,resto_do_mundo,82926263,308107.4,269.1,1.29
+2016,capitulo_31_fertilizantes,Barein,dentro_do_golfo,69040812,306161.5,225.5,1.29
+2016,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,72859271,302690.0,240.7,1.27
+2016,capitulo_31_fertilizantes,Egito,resto_do_mundo,46014321,280204.5,164.2,1.18
+2016,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,57484480,237056.9,242.5,1.0
+2016,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,78578542,229494.5,342.4,0.96
+2016,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,49286849,213154.0,231.2,0.9
+2016,capitulo_31_fertilizantes,Argentina,resto_do_mundo,45185620,203880.8,221.6,0.86
+2016,capitulo_31_fertilizantes,Polônia,resto_do_mundo,32481902,164288.6,197.7,0.69
+2016,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,36141588,153197.0,235.9,0.64
+2016,capitulo_31_fertilizantes,Argélia,resto_do_mundo,26841273,117298.3,228.8,0.49
+2016,capitulo_31_fertilizantes,Irã,dentro_do_golfo,24174674,111910.4,216.0,0.47
+2016,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,15530681,91312.0,170.1,0.38
+2016,capitulo_31_fertilizantes,Austrália,resto_do_mundo,28835905,90521.8,318.6,0.38
+2016,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,20997191,85537.0,245.5,0.36
+2016,capitulo_31_fertilizantes,México,resto_do_mundo,31306874,80336.1,389.7,0.34
+2016,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,14745661,66520.7,221.7,0.28
+2016,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,10985941,60125.4,182.7,0.25
+2016,capitulo_31_fertilizantes,Itália,resto_do_mundo,17315269,36899.1,469.3,0.15
+2016,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,9880479,36601.5,269.9,0.15
+2016,capitulo_31_fertilizantes,Indonésia,resto_do_mundo,9335464,34999.7,266.7,0.15
+2016,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,8996791,33552.0,268.1,0.14
+2016,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1925511,5311.1,362.5,0.02
+2016,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,3674931,4560.0,805.9,0.02
+2016,capitulo_31_fertilizantes,Suécia,resto_do_mundo,1673052,3176.4,526.7,0.01
+2016,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,602228,2910.0,206.9,0.01
+2016,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,1279231,1920.0,666.3,0.01
+2016,capitulo_31_fertilizantes,Letônia,resto_do_mundo,512241,1900.0,269.6,0.01
+2016,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,262763,1510.0,174.0,0.01
+2016,capitulo_31_fertilizantes,Índia,resto_do_mundo,605848,1263.5,479.5,0.01
+2016,capitulo_31_fertilizantes,França,resto_do_mundo,3866993,774.6,4991.9,0.0
+2016,capitulo_31_fertilizantes,Singapura,resto_do_mundo,150583,618.0,243.7,0.0
+2016,capitulo_31_fertilizantes,Portugal,resto_do_mundo,213605,479.0,446.0,0.0
+2016,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,150387,408.0,368.6,0.0
+2016,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,1666943,396.1,4208.6,0.0
+2016,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,330677,179.3,1844.5,0.0
+2016,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,26920,120.0,224.3,0.0
+2016,capitulo_31_fertilizantes,Brasil,resto_do_mundo,46762,90.8,515.0,0.0
+2016,capitulo_31_fertilizantes,Turquia,resto_do_mundo,218698,74.2,2947.4,0.0
+2016,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,120974,65.9,1836.0,0.0
+2016,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,423421,60.7,6971.0,0.0
+2016,capitulo_31_fertilizantes,Japão,resto_do_mundo,65480,17.1,3840.0,0.0
+2016,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,1848,3.7,503.5,0.0
+2016,capitulo_31_fertilizantes,Peru,resto_do_mundo,30688,3.2,9536.4,0.0
+2016,capitulo_31_fertilizantes,Áustria,resto_do_mundo,8028,0.7,12331.8,0.0
+2016,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,22,0.0,880.0,0.0
+2016,capitulo_31_fertilizantes,Croácia,resto_do_mundo,555,0.0,46250.0,0.0
+2017,capitulo_31_fertilizantes,TOTAL,total,7327031166,28595657.6,256.2,100.0
+2017,capitulo_31_fertilizantes,Rússia,resto_do_mundo,1371746067,5600581.8,244.9,19.59
+2017,capitulo_31_fertilizantes,Canadá,resto_do_mundo,698983882,2801059.4,249.5,9.8
+2017,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,749216273,2489148.4,301.0,8.7
+2017,capitulo_31_fertilizantes,Belarus,resto_do_mundo,539716285,2097026.4,257.4,7.33
+2017,capitulo_31_fertilizantes,China,resto_do_mundo,523388102,2040475.8,256.5,7.14
+2017,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,644390019,1907414.3,337.8,6.67
+2017,capitulo_31_fertilizantes,Catar,dentro_do_golfo,393004348,1701295.5,231.0,5.95
+2017,capitulo_31_fertilizantes,Israel,resto_do_mundo,339185218,1434817.2,236.4,5.02
+2017,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,244829927,969816.4,252.4,3.39
+2017,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,284482281,939742.4,302.7,3.29
+2017,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,160011700,905153.1,176.8,3.17
+2017,capitulo_31_fertilizantes,Chile,resto_do_mundo,180135301,642801.7,280.2,2.25
+2017,capitulo_31_fertilizantes,Noruega,resto_do_mundo,128133963,512102.0,250.2,1.79
+2017,capitulo_31_fertilizantes,Egito,resto_do_mundo,78156564,489972.5,159.5,1.71
+2017,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,74221209,450317.2,164.8,1.57
+2017,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,106335695,435081.8,244.4,1.52
+2017,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,97680427,419367.0,232.9,1.47
+2017,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,85537290,363154.6,235.5,1.27
+2017,capitulo_31_fertilizantes,Argélia,resto_do_mundo,71784713,307550.4,233.4,1.08
+2017,capitulo_31_fertilizantes,Espanha,resto_do_mundo,82492974,273791.0,301.3,0.96
+2017,capitulo_31_fertilizantes,Barein,dentro_do_golfo,50373887,230457.6,218.6,0.81
+2017,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,51291361,213803.4,239.9,0.75
+2017,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,70004037,211099.9,331.6,0.74
+2017,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,44703264,197292.5,226.6,0.69
+2017,capitulo_31_fertilizantes,Polônia,resto_do_mundo,24808801,131848.9,188.2,0.46
+2017,capitulo_31_fertilizantes,Irã,dentro_do_golfo,21660377,112535.4,192.5,0.39
+2017,capitulo_31_fertilizantes,México,resto_do_mundo,35059662,94695.9,370.2,0.33
+2017,capitulo_31_fertilizantes,Argentina,resto_do_mundo,20190735,89333.9,226.0,0.31
+2017,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,23497227,88314.6,266.1,0.31
+2017,capitulo_31_fertilizantes,Líbano,resto_do_mundo,17715411,72833.5,243.2,0.25
+2017,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,15354167,64406.1,238.4,0.23
+2017,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,22570931,60937.7,370.4,0.21
+2017,capitulo_31_fertilizantes,Itália,resto_do_mundo,20548163,47802.6,429.9,0.17
+2017,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,7144921,38521.4,185.5,0.13
+2017,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,9342824,35016.0,266.8,0.12
+2017,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,8361953,31287.4,267.3,0.11
+2017,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,2871032,29514.3,97.3,0.1
+2017,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,5887297,23433.9,251.2,0.08
+2017,capitulo_31_fertilizantes,Austrália,resto_do_mundo,4562743,17018.0,268.1,0.06
+2017,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,1803326,8544.1,211.1,0.03
+2017,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,4988964,6192.0,805.7,0.02
+2017,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,1009094,3520.0,286.7,0.01
+2017,capitulo_31_fertilizantes,Suécia,resto_do_mundo,829464,1496.9,554.1,0.01
+2017,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,716760,1336.0,536.5,0.0
+2017,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1636371,920.9,1776.8,0.0
+2017,capitulo_31_fertilizantes,França,resto_do_mundo,2881972,755.9,3812.4,0.0
+2017,capitulo_31_fertilizantes,Índia,resto_do_mundo,566973,657.8,861.9,0.0
+2017,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,762349,475.0,1605.0,0.0
+2017,capitulo_31_fertilizantes,Portugal,resto_do_mundo,149694,408.9,366.1,0.0
+2017,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,1644512,337.9,4866.7,0.0
+2017,capitulo_31_fertilizantes,Turquia,resto_do_mundo,302272,79.8,3785.8,0.0
+2017,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,111664,57.5,1943.3,0.0
+2017,capitulo_31_fertilizantes,Letônia,resto_do_mundo,2330,23.1,100.9,0.0
+2017,capitulo_31_fertilizantes,Japão,resto_do_mundo,57054,12.7,4509.8,0.0
+2017,capitulo_31_fertilizantes,Brasil,resto_do_mundo,64389,7.6,8450.0,0.0
+2017,capitulo_31_fertilizantes,Áustria,resto_do_mundo,49848,4.4,11375.6,0.0
+2017,capitulo_31_fertilizantes,Peru,resto_do_mundo,33400,3.6,9231.6,0.0
+2017,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,38902,1.4,28230.8,0.0
+2017,capitulo_31_fertilizantes,Dinamarca,resto_do_mundo,356,0.1,3390.5,0.0
+2017,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,21,0.0,840.0,0.0
+2017,capitulo_31_fertilizantes,Singapura,resto_do_mundo,420,0.0,420000.0,0.0
+2018,capitulo_31_fertilizantes,TOTAL,total,8618214712,29539122.9,291.8,100.0
+2018,capitulo_31_fertilizantes,Rússia,resto_do_mundo,1895898425,6580856.6,288.1,22.28
+2018,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1018286682,3396025.5,299.8,11.5
+2018,capitulo_31_fertilizantes,China,resto_do_mundo,636457716,2505568.5,254.0,8.48
+2018,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,739714366,2103616.7,351.6,7.12
+2018,capitulo_31_fertilizantes,Belarus,resto_do_mundo,584480986,1968591.8,296.9,6.66
+2018,capitulo_31_fertilizantes,Israel,resto_do_mundo,450867412,1685973.3,267.4,5.71
+2018,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,637721936,1623123.4,392.9,5.49
+2018,capitulo_31_fertilizantes,Argélia,resto_do_mundo,294951170,1056986.1,279.0,3.58
+2018,capitulo_31_fertilizantes,Egito,resto_do_mundo,193876539,1037255.3,186.9,3.51
+2018,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,292062995,998049.5,292.6,3.38
+2018,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,320784473,831684.5,385.7,2.82
+2018,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,149968055,753556.9,199.0,2.55
+2018,capitulo_31_fertilizantes,Catar,dentro_do_golfo,196610253,729431.5,269.5,2.47
+2018,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,134458219,490604.4,274.1,1.66
+2018,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,133237701,470289.9,283.3,1.59
+2018,capitulo_31_fertilizantes,Noruega,resto_do_mundo,117367758,430201.9,272.8,1.46
+2018,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,94097337,375286.8,250.7,1.27
+2018,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,62330309,357614.4,174.3,1.21
+2018,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,90806849,339211.7,267.7,1.15
+2018,capitulo_31_fertilizantes,Chile,resto_do_mundo,115897366,318982.1,363.3,1.08
+2018,capitulo_31_fertilizantes,Espanha,resto_do_mundo,90183666,310703.9,290.3,1.05
+2018,capitulo_31_fertilizantes,Barein,dentro_do_golfo,61142061,215998.1,283.1,0.73
+2018,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,51968561,170693.3,304.5,0.58
+2018,capitulo_31_fertilizantes,Polônia,resto_do_mundo,25020716,131060.0,190.9,0.44
+2018,capitulo_31_fertilizantes,Líbano,resto_do_mundo,24857350,76980.0,322.9,0.26
+2018,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,24418638,74859.9,326.2,0.25
+2018,capitulo_31_fertilizantes,México,resto_do_mundo,37583699,72966.3,515.1,0.25
+2018,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,13140495,62713.6,209.5,0.21
+2018,capitulo_31_fertilizantes,Argentina,resto_do_mundo,13880891,53075.7,261.5,0.18
+2018,capitulo_31_fertilizantes,Itália,resto_do_mundo,20167915,50234.0,401.5,0.17
+2018,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,14486712,49228.7,294.3,0.17
+2018,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,15754870,44476.1,354.2,0.15
+2018,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,12160277,43269.6,281.0,0.15
+2018,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,16696570,39382.8,424.0,0.13
+2018,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,6945806,27518.0,252.4,0.09
+2018,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,5704358,20000.0,285.2,0.07
+2018,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,1509130,9011.9,167.5,0.03
+2018,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,2189432,8508.2,257.3,0.03
+2018,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,2044839,7137.0,286.5,0.02
+2018,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,4808167,5832.0,824.4,0.02
+2018,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,1759610,3605.2,488.1,0.01
+2018,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,824434,3179.1,259.3,0.01
+2018,capitulo_31_fertilizantes,Suécia,resto_do_mundo,1209110,2180.5,554.5,0.01
+2018,capitulo_31_fertilizantes,França,resto_do_mundo,3348234,813.0,4118.5,0.0
+2018,capitulo_31_fertilizantes,Austrália,resto_do_mundo,1459682,620.2,2353.7,0.0
+2018,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,2206346,496.4,4444.3,0.0
+2018,capitulo_31_fertilizantes,Índia,resto_do_mundo,481771,460.5,1046.3,0.0
+2018,capitulo_31_fertilizantes,Letônia,resto_do_mundo,108717,383.5,283.5,0.0
+2018,capitulo_31_fertilizantes,Dinamarca,resto_do_mundo,105932,240.0,441.4,0.0
+2018,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,22400,192.0,116.7,0.0
+2018,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1095645,109.6,9996.5,0.0
+2018,capitulo_31_fertilizantes,Turquia,resto_do_mundo,340016,74.3,4578.7,0.0
+2018,capitulo_31_fertilizantes,Portugal,resto_do_mundo,87404,71.1,1229.0,0.0
+2018,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,228735,42.6,5363.3,0.0
+2018,capitulo_31_fertilizantes,Japão,resto_do_mundo,64556,32.5,1988.7,0.0
+2018,capitulo_31_fertilizantes,Áustria,resto_do_mundo,252580,22.5,11228.3,0.0
+2018,capitulo_31_fertilizantes,Grécia,resto_do_mundo,4902,21.5,228.4,0.0
+2018,capitulo_31_fertilizantes,Irã,dentro_do_golfo,1317,11.2,117.6,0.0
+2018,capitulo_31_fertilizantes,Peru,resto_do_mundo,66209,7.0,9404.7,0.0
+2018,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,6336,0.2,28160.0,0.0
+2018,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,76,0.0,2814.8,0.0
+2019,capitulo_31_fertilizantes,TOTAL,total,9145642238,31139974.0,293.7,100.0
+2019,capitulo_31_fertilizantes,Rússia,resto_do_mundo,2155111390,7249003.9,297.3,23.28
+2019,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1158513543,3485890.6,332.3,11.19
+2019,capitulo_31_fertilizantes,China,resto_do_mundo,707936792,3045771.6,232.4,9.78
+2019,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,669027826,2167953.4,308.6,6.96
+2019,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,686763207,1941669.6,353.7,6.24
+2019,capitulo_31_fertilizantes,Belarus,resto_do_mundo,586652942,1812417.1,323.7,5.82
+2019,capitulo_31_fertilizantes,Israel,resto_do_mundo,419677576,1447434.5,289.9,4.65
+2019,capitulo_31_fertilizantes,Egito,resto_do_mundo,255853390,1311300.9,195.1,4.21
+2019,capitulo_31_fertilizantes,Catar,dentro_do_golfo,313613222,1164279.3,269.4,3.74
+2019,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,374613859,1120318.9,334.4,3.6
+2019,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,373627511,1051033.4,355.5,3.38
+2019,capitulo_31_fertilizantes,Argélia,resto_do_mundo,271510039,982844.5,276.2,3.16
+2019,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,151073775,700593.7,215.6,2.25
+2019,capitulo_31_fertilizantes,Irã,dentro_do_golfo,113888364,510053.3,223.3,1.64
+2019,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,127424966,458342.4,278.0,1.47
+2019,capitulo_31_fertilizantes,Noruega,resto_do_mundo,120855781,438510.8,275.6,1.41
+2019,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,72437754,408943.2,177.1,1.31
+2019,capitulo_31_fertilizantes,Espanha,resto_do_mundo,61815733,167997.1,368.0,0.54
+2019,capitulo_31_fertilizantes,Chile,resto_do_mundo,74827139,164028.0,456.2,0.53
+2019,capitulo_31_fertilizantes,Argentina,resto_do_mundo,43737763,160288.1,272.9,0.51
+2019,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,43823347,141356.6,310.0,0.45
+2019,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,41468643,140516.0,295.1,0.45
+2019,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,42103166,135266.6,311.3,0.43
+2019,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,29919805,124317.3,240.7,0.4
+2019,capitulo_31_fertilizantes,México,resto_do_mundo,46243337,109228.8,423.4,0.35
+2019,capitulo_31_fertilizantes,Polônia,resto_do_mundo,18575222,93819.2,198.0,0.3
+2019,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,23347682,87903.6,265.6,0.28
+2019,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,20725585,85199.8,243.3,0.27
+2019,capitulo_31_fertilizantes,Barein,dentro_do_golfo,21583402,80936.6,266.7,0.26
+2019,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,16960990,47660.0,355.9,0.15
+2019,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,9836875,47000.0,209.3,0.15
+2019,capitulo_31_fertilizantes,Itália,resto_do_mundo,20790760,44767.4,464.4,0.14
+2019,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,10634695,39138.0,271.7,0.13
+2019,capitulo_31_fertilizantes,Malásia,resto_do_mundo,10277242,32956.9,311.8,0.11
+2019,capitulo_31_fertilizantes,Líbano,resto_do_mundo,7516529,32290.0,232.8,0.1
+2019,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,9776449,30999.4,315.4,0.1
+2019,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,8255447,22612.2,365.1,0.07
+2019,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,2628859,13994.0,187.9,0.04
+2019,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,2946270,12427.8,237.1,0.04
+2019,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,2434800,10088.2,241.4,0.03
+2019,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,2614885,8064.0,324.3,0.03
+2019,capitulo_31_fertilizantes,Letônia,resto_do_mundo,1954236,5704.9,342.6,0.02
+2019,capitulo_31_fertilizantes,França,resto_do_mundo,3056702,994.2,3074.6,0.0
+2019,capitulo_31_fertilizantes,Austrália,resto_do_mundo,1765331,769.6,2293.9,0.0
+2019,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,2533615,570.8,4439.0,0.0
+2019,capitulo_31_fertilizantes,Turquia,resto_do_mundo,934288,553.2,1689.0,0.0
+2019,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,456106,457.7,996.4,0.0
+2019,capitulo_31_fertilizantes,Singapura,resto_do_mundo,99596,454.0,219.4,0.0
+2019,capitulo_31_fertilizantes,Índia,resto_do_mundo,156791,272.5,575.4,0.0
+2019,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,310056,266.1,1165.2,0.0
+2019,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1281547,223.2,5740.7,0.0
+2019,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1238678,136.7,9060.4,0.0
+2019,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,23785,125.0,190.3,0.0
+2019,capitulo_31_fertilizantes,Suécia,resto_do_mundo,62196,122.5,507.7,0.0
+2019,capitulo_31_fertilizantes,Portugal,resto_do_mundo,26678,48.9,545.4,0.0
+2019,capitulo_31_fertilizantes,Grécia,resto_do_mundo,5593,23.0,243.5,0.0
+2019,capitulo_31_fertilizantes,Japão,resto_do_mundo,76954,14.5,5312.7,0.0
+2019,capitulo_31_fertilizantes,Brasil,resto_do_mundo,57318,7.2,7930.0,0.0
+2019,capitulo_31_fertilizantes,Áustria,resto_do_mundo,80235,5.8,13953.9,0.0
+2019,capitulo_31_fertilizantes,Peru,resto_do_mundo,47883,5.1,9323.0,0.0
+2019,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,47740,1.8,26404.9,0.0
+2019,capitulo_31_fertilizantes,Dinamarca,resto_do_mundo,26,0.6,43.3,0.0
+2019,capitulo_31_fertilizantes,Estônia,resto_do_mundo,322,0.0,14636.4,0.0
+2020,capitulo_31_fertilizantes,TOTAL,total,8027715871,34247774.4,234.4,100.0
+2020,capitulo_31_fertilizantes,Rússia,resto_do_mundo,1786323489,7583121.5,235.6,22.14
+2020,capitulo_31_fertilizantes,Canadá,resto_do_mundo,855876887,3729221.0,229.5,10.89
+2020,capitulo_31_fertilizantes,China,resto_do_mundo,595007505,3292917.3,180.7,9.61
+2020,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,896269746,3025752.7,296.2,8.83
+2020,capitulo_31_fertilizantes,Belarus,resto_do_mundo,534621034,2449167.7,218.3,7.15
+2020,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,531229797,2020434.3,262.9,5.9
+2020,capitulo_31_fertilizantes,Catar,dentro_do_golfo,449740019,1868269.9,240.7,5.46
+2020,capitulo_31_fertilizantes,Argélia,resto_do_mundo,391502454,1593704.5,245.7,4.65
+2020,capitulo_31_fertilizantes,Israel,resto_do_mundo,266434943,1296201.2,205.6,3.78
+2020,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,308560960,1125169.0,274.2,3.29
+2020,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,243855119,980698.7,248.7,2.86
+2020,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,159889382,891826.4,179.3,2.6
+2020,capitulo_31_fertilizantes,Egito,resto_do_mundo,90715320,618023.1,146.8,1.8
+2020,capitulo_31_fertilizantes,Irã,dentro_do_golfo,112997800,505433.7,223.6,1.48
+2020,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,104624673,432219.9,242.1,1.26
+2020,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,55609062,359258.7,154.8,1.05
+2020,capitulo_31_fertilizantes,Noruega,resto_do_mundo,72978653,312085.0,233.8,0.91
+2020,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,65614163,276259.0,237.5,0.81
+2020,capitulo_31_fertilizantes,México,resto_do_mundo,87233499,257055.4,339.4,0.75
+2020,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,42670291,188227.0,226.7,0.55
+2020,capitulo_31_fertilizantes,Chile,resto_do_mundo,66737073,181110.8,368.5,0.53
+2020,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,41624869,161612.0,257.6,0.47
+2020,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,20667635,141618.3,145.9,0.41
+2020,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,29928572,136230.3,219.7,0.4
+2020,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,23031731,110609.2,208.2,0.32
+2020,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,13802404,84482.2,163.4,0.25
+2020,capitulo_31_fertilizantes,Espanha,resto_do_mundo,29578764,80012.2,369.7,0.23
+2020,capitulo_31_fertilizantes,Polônia,resto_do_mundo,12419510,76650.9,162.0,0.22
+2020,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,16781879,68844.3,243.8,0.2
+2020,capitulo_31_fertilizantes,Turquia,resto_do_mundo,17165349,57013.2,301.1,0.17
+2020,capitulo_31_fertilizantes,Itália,resto_do_mundo,18960858,50437.7,375.9,0.15
+2020,capitulo_31_fertilizantes,Malásia,resto_do_mundo,11691918,43010.1,271.8,0.13
+2020,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,10112961,40125.0,252.0,0.12
+2020,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,12106001,37474.1,323.0,0.11
+2020,capitulo_31_fertilizantes,Barein,dentro_do_golfo,7594246,35251.6,215.4,0.1
+2020,capitulo_31_fertilizantes,Vietnã,resto_do_mundo,8814559,33002.9,267.1,0.1
+2020,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,6475430,28355.2,228.4,0.08
+2020,capitulo_31_fertilizantes,Indonésia,resto_do_mundo,6496765,28300.8,229.6,0.08
+2020,capitulo_31_fertilizantes,Argentina,resto_do_mundo,5580963,16556.2,337.1,0.05
+2020,capitulo_31_fertilizantes,França,resto_do_mundo,2689320,8676.8,309.9,0.03
+2020,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,1619746,6642.0,243.9,0.02
+2020,capitulo_31_fertilizantes,Trinidad e Tobago,resto_do_mundo,1339040,5000.0,267.8,0.01
+2020,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,749129,2496.0,300.1,0.01
+2020,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,326343,1705.0,191.4,0.0
+2020,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,564448,1410.0,400.3,0.0
+2020,capitulo_31_fertilizantes,Suécia,resto_do_mundo,268046,1008.0,265.9,0.0
+2020,capitulo_31_fertilizantes,Letônia,resto_do_mundo,197604,775.5,254.8,0.0
+2020,capitulo_31_fertilizantes,Suíça,resto_do_mundo,971381,653.7,1486.0,0.0
+2020,capitulo_31_fertilizantes,Austrália,resto_do_mundo,1633020,637.0,2563.7,0.0
+2020,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,2779560,618.2,4496.0,0.0
+2020,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,638970,473.9,1348.3,0.0
+2020,capitulo_31_fertilizantes,Índia,resto_do_mundo,613640,461.9,1328.5,0.0
+2020,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,428584,339.2,1263.5,0.0
+2020,capitulo_31_fertilizantes,Portugal,resto_do_mundo,148000,338.4,437.4,0.0
+2020,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,141337,258.8,546.2,0.0
+2020,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1014491,216.2,4692.6,0.0
+2020,capitulo_31_fertilizantes,Singapura,resto_do_mundo,34940,144.0,242.6,0.0
+2020,capitulo_31_fertilizantes,Panamá,resto_do_mundo,35159,112.0,313.9,0.0
+2020,capitulo_31_fertilizantes,Sérvia,resto_do_mundo,68621,48.0,1429.6,0.0
+2020,capitulo_31_fertilizantes,Japão,resto_do_mundo,86986,12.8,6802.7,0.0
+2020,capitulo_31_fertilizantes,Peru,resto_do_mundo,38951,4.1,9454.1,0.0
+2020,capitulo_31_fertilizantes,Estônia,resto_do_mundo,2250,0.2,15000.0,0.0
+2020,capitulo_31_fertilizantes,Malta,resto_do_mundo,22,0.0,22000.0,0.0
+2021,capitulo_31_fertilizantes,TOTAL,total,15164542404,41572778.1,364.8,100.0
+2021,capitulo_31_fertilizantes,Rússia,resto_do_mundo,3531275014,9273029.2,380.8,22.31
+2021,capitulo_31_fertilizantes,China,resto_do_mundo,2081327772,6306943.0,330.0,15.17
+2021,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1478691055,4170112.9,354.6,10.03
+2021,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1594251384,2940122.8,542.2,7.07
+2021,capitulo_31_fertilizantes,Belarus,resto_do_mundo,508127907,2390656.8,212.5,5.75
+2021,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,857405559,1837453.8,466.6,4.42
+2021,capitulo_31_fertilizantes,Catar,dentro_do_golfo,691917237,1814690.7,381.3,4.37
+2021,capitulo_31_fertilizantes,Israel,resto_do_mundo,397235147,1479586.9,268.5,3.56
+2021,capitulo_31_fertilizantes,Egito,resto_do_mundo,283502283,1411298.9,200.9,3.39
+2021,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,430198936,1294355.9,332.4,3.11
+2021,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,485681677,1250206.5,388.5,3.01
+2021,capitulo_31_fertilizantes,Argélia,resto_do_mundo,433006653,1086434.1,398.6,2.61
+2021,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,465049644,902524.2,515.3,2.17
+2021,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,233541748,884030.4,264.2,2.13
+2021,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,389620948,844569.9,461.3,2.03
+2021,capitulo_31_fertilizantes,Noruega,resto_do_mundo,140312038,414106.8,338.8,1.0
+2021,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,61305429,330386.3,185.6,0.79
+2021,capitulo_31_fertilizantes,Espanha,resto_do_mundo,93280081,322705.5,289.1,0.78
+2021,capitulo_31_fertilizantes,Chile,resto_do_mundo,100556202,279584.4,359.7,0.67
+2021,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,95223122,259964.5,366.3,0.63
+2021,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,30027932,246102.9,122.0,0.59
+2021,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,83372228,234646.9,355.3,0.56
+2021,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,107213558,222141.5,482.6,0.53
+2021,capitulo_31_fertilizantes,Irã,dentro_do_golfo,57295091,200033.9,286.4,0.48
+2021,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,51153699,130152.2,393.0,0.31
+2021,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,49273283,125446.4,392.8,0.3
+2021,capitulo_31_fertilizantes,Barein,dentro_do_golfo,34791022,105163.9,330.8,0.25
+2021,capitulo_31_fertilizantes,Polônia,resto_do_mundo,24184128,102654.8,235.6,0.25
+2021,capitulo_31_fertilizantes,Azerbaijão,resto_do_mundo,44724679,96055.6,465.6,0.23
+2021,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,46012688,70924.9,648.8,0.17
+2021,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,37658065,63077.8,597.0,0.15
+2021,capitulo_31_fertilizantes,Austrália,resto_do_mundo,37608725,53176.1,707.2,0.13
+2021,capitulo_31_fertilizantes,Itália,resto_do_mundo,22873172,50261.3,455.1,0.12
+2021,capitulo_31_fertilizantes,Trinidad e Tobago,resto_do_mundo,13249457,47399.8,279.5,0.11
+2021,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,24269937,39418.9,615.7,0.09
+2021,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,9751086,37967.2,256.8,0.09
+2021,capitulo_31_fertilizantes,Líbano,resto_do_mundo,18604601,35004.7,531.5,0.08
+2021,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,17887913,34089.3,524.7,0.08
+2021,capitulo_31_fertilizantes,México,resto_do_mundo,22768490,33481.8,680.0,0.08
+2021,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,17792804,30855.0,576.7,0.07
+2021,capitulo_31_fertilizantes,Turquia,resto_do_mundo,13467342,30574.6,440.5,0.07
+2021,capitulo_31_fertilizantes,Geórgia,resto_do_mundo,5416277,20900.9,259.1,0.05
+2021,capitulo_31_fertilizantes,Líbia,resto_do_mundo,6077060,16334.0,372.0,0.04
+2021,capitulo_31_fertilizantes,Senegal,resto_do_mundo,9470938,16263.8,582.3,0.04
+2021,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,3292977,5318.8,619.1,0.01
+2021,capitulo_31_fertilizantes,Indonésia,resto_do_mundo,1135568,4654.8,244.0,0.01
+2021,capitulo_31_fertilizantes,Portugal,resto_do_mundo,1406402,4279.9,328.6,0.01
+2021,capitulo_31_fertilizantes,Suécia,resto_do_mundo,1565147,3505.2,446.5,0.01
+2021,capitulo_31_fertilizantes,Singapura,resto_do_mundo,933164,3450.0,270.5,0.01
+2021,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,804687,3036.0,265.0,0.01
+2021,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,1176093,2586.3,454.7,0.01
+2021,capitulo_31_fertilizantes,França,resto_do_mundo,4375664,2431.5,1799.6,0.01
+2021,capitulo_31_fertilizantes,Argentina,resto_do_mundo,4733928,2266.9,2088.2,0.01
+2021,capitulo_31_fertilizantes,Letônia,resto_do_mundo,530496,2167.6,244.7,0.01
+2021,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,377072,1464.0,257.6,0.0
+2021,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,4204047,908.0,4629.9,0.0
+2021,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,396670,402.0,986.8,0.0
+2021,capitulo_31_fertilizantes,Índia,resto_do_mundo,263752,384.6,685.8,0.0
+2021,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1267565,349.4,3627.3,0.0
+2021,capitulo_31_fertilizantes,Sérvia,resto_do_mundo,298502,339.0,880.5,0.0
+2021,capitulo_31_fertilizantes,Suíça,resto_do_mundo,556037,148.8,3736.0,0.0
+2021,capitulo_31_fertilizantes,Brasil,resto_do_mundo,194052,76.9,2524.8,0.0
+2021,capitulo_31_fertilizantes,Polinésia Francesa,resto_do_mundo,10266,21.0,488.9,0.0
+2021,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,46846,19.8,2363.5,0.0
+2021,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,59538,18.0,3307.7,0.0
+2021,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,3857,16.0,240.6,0.0
+2021,capitulo_31_fertilizantes,Japão,resto_do_mundo,194651,15.4,12633.9,0.0
+2021,capitulo_31_fertilizantes,Áustria,resto_do_mundo,98925,11.3,8754.4,0.0
+2021,capitulo_31_fertilizantes,Peru,resto_do_mundo,87784,10.0,8745.2,0.0
+2021,capitulo_31_fertilizantes,Estônia,resto_do_mundo,60809,4.3,14207.7,0.0
+2021,capitulo_31_fertilizantes,República Dominicana,resto_do_mundo,5484,1.0,5273.1,0.0
+2021,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,8410,0.1,93444.4,0.0
+2022,capitulo_31_fertilizantes,TOTAL,total,24739548171,38119911.1,649.0,100.0
+2022,capitulo_31_fertilizantes,Rússia,resto_do_mundo,5608098891,8035372.3,697.9,21.08
+2022,capitulo_31_fertilizantes,China,resto_do_mundo,2381607051,6030268.1,394.9,15.82
+2022,capitulo_31_fertilizantes,Canadá,resto_do_mundo,3713568203,4543179.4,817.4,11.92
+2022,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,1650749364,2036826.8,810.5,5.34
+2022,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1635964395,1744532.6,937.8,4.58
+2022,capitulo_31_fertilizantes,Israel,resto_do_mundo,1144374530,1636637.8,699.2,4.29
+2022,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,980906330,1510103.8,649.6,3.96
+2022,capitulo_31_fertilizantes,Catar,dentro_do_golfo,910228428,1418424.7,641.7,3.72
+2022,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,899362880,1339607.8,671.4,3.51
+2022,capitulo_31_fertilizantes,Egito,resto_do_mundo,457913828,1276237.3,358.8,3.35
+2022,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,824297043,1217797.8,676.9,3.19
+2022,capitulo_31_fertilizantes,Belarus,resto_do_mundo,360496729,1068904.9,337.3,2.8
+2022,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,866526080,1025260.7,845.2,2.69
+2022,capitulo_31_fertilizantes,Noruega,resto_do_mundo,466977648,752537.9,620.5,1.97
+2022,capitulo_31_fertilizantes,Argélia,resto_do_mundo,400965478,650041.6,616.8,1.71
+2022,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,293074768,570135.1,514.0,1.5
+2022,capitulo_31_fertilizantes,Chile,resto_do_mundo,350607945,429198.9,816.9,1.13
+2022,capitulo_31_fertilizantes,Espanha,resto_do_mundo,285872852,415393.9,688.2,1.09
+2022,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,244482270,342334.1,714.2,0.9
+2022,capitulo_31_fertilizantes,Irã,dentro_do_golfo,132891037,256378.6,518.3,0.67
+2022,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,146539757,238105.2,615.4,0.62
+2022,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,82053693,228640.2,358.9,0.6
+2022,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,77832323,225986.7,344.4,0.59
+2022,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,114504713,195048.5,587.1,0.51
+2022,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,126886432,149624.0,848.0,0.39
+2022,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,58659662,109958.7,533.5,0.29
+2022,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,81917561,97877.4,836.9,0.26
+2022,capitulo_31_fertilizantes,Itália,resto_do_mundo,52039722,69135.9,752.7,0.18
+2022,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,67628109,64500.0,1048.5,0.17
+2022,capitulo_31_fertilizantes,Barein,dentro_do_golfo,39566363,56005.9,706.5,0.15
+2022,capitulo_31_fertilizantes,Austrália,resto_do_mundo,61204456,53226.0,1149.9,0.14
+2022,capitulo_31_fertilizantes,Polônia,resto_do_mundo,33360327,52055.9,640.9,0.14
+2022,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,15858142,44007.9,360.3,0.12
+2022,capitulo_31_fertilizantes,Líbano,resto_do_mundo,28393975,37312.6,761.0,0.1
+2022,capitulo_31_fertilizantes,Turquia,resto_do_mundo,19729215,36781.8,536.4,0.1
+2022,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,24132040,32571.6,740.9,0.09
+2022,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,10512473,30045.0,349.9,0.08
+2022,capitulo_31_fertilizantes,Índia,resto_do_mundo,12099084,26504.4,456.5,0.07
+2022,capitulo_31_fertilizantes,França,resto_do_mundo,10541669,15657.5,673.3,0.04
+2022,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,8795432,13430.0,654.9,0.04
+2022,capitulo_31_fertilizantes,México,resto_do_mundo,23221140,9973.2,2328.3,0.03
+2022,capitulo_31_fertilizantes,Malásia,resto_do_mundo,5270750,6485.5,812.7,0.02
+2022,capitulo_31_fertilizantes,Suécia,resto_do_mundo,3922531,6038.0,649.6,0.02
+2022,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,3098417,5022.1,617.0,0.01
+2022,capitulo_31_fertilizantes,Azerbaijão,resto_do_mundo,2976170,3565.9,834.6,0.01
+2022,capitulo_31_fertilizantes,Portugal,resto_do_mundo,1884584,3149.2,598.4,0.01
+2022,capitulo_31_fertilizantes,Coveite (Kuweit),dentro_do_golfo,2085342,2625.0,794.4,0.01
+2022,capitulo_31_fertilizantes,Argentina,resto_do_mundo,5173843,2145.6,2411.4,0.01
+2022,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,1202078,1920.0,626.1,0.01
+2022,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,3879715,954.0,4066.7,0.0
+2022,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,876244,643.9,1360.9,0.0
+2022,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1193925,398.9,2992.8,0.0
+2022,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1193407,383.6,3111.5,0.0
+2022,capitulo_31_fertilizantes,Sérvia,resto_do_mundo,372785,240.0,1553.3,0.0
+2022,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,858042,215.1,3988.3,0.0
+2022,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,449284,156.3,2873.9,0.0
+2022,capitulo_31_fertilizantes,Guiana,resto_do_mundo,166233,156.0,1065.6,0.0
+2022,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,31479,105.1,299.6,0.0
+2022,capitulo_31_fertilizantes,Grécia,resto_do_mundo,20794,48.0,433.2,0.0
+2022,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,199065,22.8,8730.9,0.0
+2022,capitulo_31_fertilizantes,Peru,resto_do_mundo,55952,6.0,9356.5,0.0
+2022,capitulo_31_fertilizantes,Áustria,resto_do_mundo,49259,5.6,8718.4,0.0
+2022,capitulo_31_fertilizantes,Japão,resto_do_mundo,146144,1.7,85464.3,0.0
+2022,capitulo_31_fertilizantes,Tailândia,resto_do_mundo,90,0.3,300.0,0.0
+2023,capitulo_31_fertilizantes,TOTAL,total,14642673040,40911733.8,357.9,100.0
+2023,capitulo_31_fertilizantes,Rússia,resto_do_mundo,3548427356,9417385.7,376.8,23.02
+2023,capitulo_31_fertilizantes,China,resto_do_mundo,1635421693,6805798.1,240.3,16.64
+2023,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1958314463,4953577.1,395.3,12.11
+2023,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1196265499,2451432.1,488.0,5.99
+2023,capitulo_31_fertilizantes,Israel,resto_do_mundo,608444454,1683142.4,361.5,4.11
+2023,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,560462821,1609421.7,348.2,3.93
+2023,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,672032563,1487611.0,451.8,3.64
+2023,capitulo_31_fertilizantes,Catar,dentro_do_golfo,497744442,1345036.5,370.1,3.29
+2023,capitulo_31_fertilizantes,Egito,resto_do_mundo,264836161,1329950.5,199.1,3.25
+2023,capitulo_31_fertilizantes,Uzbequistão,resto_do_mundo,365976042,1224993.7,298.8,2.99
+2023,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,582252218,1190679.5,489.0,2.91
+2023,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,449138418,1172853.0,382.9,2.87
+2023,capitulo_31_fertilizantes,Belarus,resto_do_mundo,349145006,1054658.5,331.1,2.58
+2023,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,376628575,884230.9,425.9,2.16
+2023,capitulo_31_fertilizantes,Argélia,resto_do_mundo,272701696,715589.8,381.1,1.75
+2023,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,184087617,584953.9,314.7,1.43
+2023,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,164321551,581444.9,282.6,1.42
+2023,capitulo_31_fertilizantes,Noruega,resto_do_mundo,136786102,365142.9,374.6,0.89
+2023,capitulo_31_fertilizantes,Espanha,resto_do_mundo,112384149,284231.8,395.4,0.69
+2023,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,96876661,259782.5,372.9,0.63
+2023,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,73589516,230371.0,319.4,0.56
+2023,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,75374442,172289.1,437.5,0.42
+2023,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,31349944,149980.8,209.0,0.37
+2023,capitulo_31_fertilizantes,Barein,dentro_do_golfo,58527284,144147.9,406.0,0.35
+2023,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,41194800,128578.7,320.4,0.31
+2023,capitulo_31_fertilizantes,Chile,resto_do_mundo,84941202,126613.7,670.9,0.31
+2023,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,18254891,80596.0,226.5,0.2
+2023,capitulo_31_fertilizantes,Índia,resto_do_mundo,12005639,64870.7,185.1,0.16
+2023,capitulo_31_fertilizantes,Trinidad e Tobago,resto_do_mundo,24329214,59318.0,410.1,0.14
+2023,capitulo_31_fertilizantes,México,resto_do_mundo,31800740,44875.0,708.7,0.11
+2023,capitulo_31_fertilizantes,Indonésia,resto_do_mundo,12143113,37433.6,324.4,0.09
+2023,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,12709564,33095.1,384.0,0.08
+2023,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,11290276,32307.0,349.5,0.08
+2023,capitulo_31_fertilizantes,Itália,resto_do_mundo,24987017,31753.0,786.9,0.08
+2023,capitulo_31_fertilizantes,Líbano,resto_do_mundo,10928697,30038.8,363.8,0.07
+2023,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,7314860,30000.0,243.8,0.07
+2023,capitulo_31_fertilizantes,Argentina,resto_do_mundo,8125213,27635.9,294.0,0.07
+2023,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,19411630,27405.1,708.3,0.07
+2023,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,12076208,15601.2,774.1,0.04
+2023,capitulo_31_fertilizantes,Turquia,resto_do_mundo,8123898,6743.2,1204.8,0.02
+2023,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,3006175,5952.4,505.0,0.01
+2023,capitulo_31_fertilizantes,Suécia,resto_do_mundo,2747470,5494.7,500.0,0.01
+2023,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,2877513,4965.0,579.6,0.01
+2023,capitulo_31_fertilizantes,França,resto_do_mundo,3815376,3873.2,985.1,0.01
+2023,capitulo_31_fertilizantes,Japão,resto_do_mundo,1681894,3601.5,467.0,0.01
+2023,capitulo_31_fertilizantes,Portugal,resto_do_mundo,2219504,3017.9,735.4,0.01
+2023,capitulo_31_fertilizantes,Austrália,resto_do_mundo,4477067,2013.7,2223.3,0.0
+2023,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,1038049,1692.0,613.5,0.0
+2023,capitulo_31_fertilizantes,Polônia,resto_do_mundo,2475117,1371.1,1805.3,0.0
+2023,capitulo_31_fertilizantes,Singapura,resto_do_mundo,1108853,1192.3,930.0,0.0
+2023,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,638476,1122.0,569.1,0.0
+2023,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,3100965,622.2,4983.9,0.0
+2023,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,947598,617.3,1535.1,0.0
+2023,capitulo_31_fertilizantes,Guiana,resto_do_mundo,231000,365.0,632.9,0.0
+2023,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,530179,117.6,4507.1,0.0
+2023,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,80960,37.0,2187.9,0.0
+2023,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,657311,27.8,23663.9,0.0
+2023,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,67347,22.2,3037.6,0.0
+2023,capitulo_31_fertilizantes,Camarões,resto_do_mundo,6028,22.2,271.9,0.0
+2023,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,20565,20.0,1028.2,0.0
+2023,capitulo_31_fertilizantes,Estônia,resto_do_mundo,202050,15.0,13470.0,0.0
+2023,capitulo_31_fertilizantes,Brasil,resto_do_mundo,870,1.0,870.0,0.0
+2023,capitulo_31_fertilizantes,Irã,dentro_do_golfo,12908,0.2,57368.9,0.0
+2023,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,3108,0.1,26564.1,0.0
+2023,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1022,0.0,204400.0,0.0
+2024,capitulo_31_fertilizantes,TOTAL,total,13581411089,44277703.7,306.7,100.0
+2024,capitulo_31_fertilizantes,Rússia,resto_do_mundo,3703422073,11392190.6,325.1,25.73
+2024,capitulo_31_fertilizantes,China,resto_do_mundo,1921722391,8725115.6,220.3,19.71
+2024,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1323480129,4907987.9,269.7,11.08
+2024,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1162357143,2357421.5,493.1,5.32
+2024,capitulo_31_fertilizantes,Egito,resto_do_mundo,406818400,1925021.0,211.3,4.35
+2024,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,477766392,1591186.8,300.3,3.59
+2024,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,536006247,1586073.7,337.9,3.58
+2024,capitulo_31_fertilizantes,Israel,resto_do_mundo,432971240,1550827.9,279.2,3.5
+2024,capitulo_31_fertilizantes,Uzbequistão,resto_do_mundo,393386159,1442320.5,272.7,3.26
+2024,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,604956575,1280888.3,472.3,2.89
+2024,capitulo_31_fertilizantes,Catar,dentro_do_golfo,397648485,1183348.9,336.0,2.67
+2024,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,496299458,988914.1,501.9,2.23
+2024,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,213996421,697724.5,306.7,1.58
+2024,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,168143732,526090.2,319.6,1.19
+2024,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,130026933,503074.3,258.5,1.14
+2024,capitulo_31_fertilizantes,Noruega,resto_do_mundo,147967175,482709.0,306.5,1.09
+2024,capitulo_31_fertilizantes,Argélia,resto_do_mundo,155111702,462852.6,335.1,1.05
+2024,capitulo_31_fertilizantes,Espanha,resto_do_mundo,149358316,390420.0,382.6,0.88
+2024,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,101152290,358076.0,282.5,0.81
+2024,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,97379529,339475.0,286.9,0.77
+2024,capitulo_31_fertilizantes,Barein,dentro_do_golfo,78779237,244875.3,321.7,0.55
+2024,capitulo_31_fertilizantes,Índia,resto_do_mundo,31882809,180081.1,177.0,0.41
+2024,capitulo_31_fertilizantes,Chile,resto_do_mundo,72939626,158343.5,460.6,0.36
+2024,capitulo_31_fertilizantes,Belarus,resto_do_mundo,44715068,146478.5,305.3,0.33
+2024,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,47427020,143874.8,329.6,0.32
+2024,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,50688314,120145.8,421.9,0.27
+2024,capitulo_31_fertilizantes,Cazaquistão,resto_do_mundo,48815641,104749.5,466.0,0.24
+2024,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,13397678,86314.8,155.2,0.19
+2024,capitulo_31_fertilizantes,Azerbaijão,resto_do_mundo,21503625,65589.6,327.9,0.15
+2024,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,18911637,62408.8,303.0,0.14
+2024,capitulo_31_fertilizantes,Malásia,resto_do_mundo,12863817,38575.2,333.5,0.09
+2024,capitulo_31_fertilizantes,Polônia,resto_do_mundo,7775577,32360.6,240.3,0.07
+2024,capitulo_31_fertilizantes,Laos,resto_do_mundo,7173102,27707.1,258.9,0.06
+2024,capitulo_31_fertilizantes,México,resto_do_mundo,18672593,25490.1,732.5,0.06
+2024,capitulo_31_fertilizantes,Vietnã,resto_do_mundo,3807952,22002.4,173.1,0.05
+2024,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,5370545,17745.0,302.7,0.04
+2024,capitulo_31_fertilizantes,Líbano,resto_do_mundo,7972656,16509.9,482.9,0.04
+2024,capitulo_31_fertilizantes,Suécia,resto_do_mundo,5694286,13197.9,431.5,0.03
+2024,capitulo_31_fertilizantes,Indonésia,resto_do_mundo,3799197,12235.9,310.5,0.03
+2024,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,6756188,11763.1,574.4,0.03
+2024,capitulo_31_fertilizantes,Singapura,resto_do_mundo,1552486,8508.8,182.5,0.02
+2024,capitulo_31_fertilizantes,Itália,resto_do_mundo,12581424,8017.4,1569.3,0.02
+2024,capitulo_31_fertilizantes,Turquia,resto_do_mundo,7347161,6684.1,1099.2,0.02
+2024,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,2133201,5600.8,380.9,0.01
+2024,capitulo_31_fertilizantes,França,resto_do_mundo,6168486,5492.3,1123.1,0.01
+2024,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,3540000,5000.0,708.0,0.01
+2024,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,2071948,4499.6,460.5,0.01
+2024,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,1829395,2535.5,721.5,0.01
+2024,capitulo_31_fertilizantes,Portugal,resto_do_mundo,923053,1436.1,642.8,0.0
+2024,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,6663658,1316.6,5061.3,0.0
+2024,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,566299,1080.0,524.4,0.0
+2024,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,523763,937.5,558.7,0.0
+2024,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,480009,724.4,662.6,0.0
+2024,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1437694,701.4,2049.9,0.0
+2024,capitulo_31_fertilizantes,Austrália,resto_do_mundo,756693,483.3,1565.8,0.0
+2024,capitulo_31_fertilizantes,Argentina,resto_do_mundo,1051796,420.3,2502.8,0.0
+2024,capitulo_31_fertilizantes,Trinidad e Tobago,resto_do_mundo,192600,360.0,535.0,0.0
+2024,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,589101,339.5,1735.1,0.0
+2024,capitulo_31_fertilizantes,Irã,dentro_do_golfo,132494,288.0,460.0,0.0
+2024,capitulo_31_fertilizantes,Guiana,resto_do_mundo,156165,287.0,544.1,0.0
+2024,capitulo_31_fertilizantes,Japão,resto_do_mundo,814110,248.0,3282.3,0.0
+2024,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,154524,188.4,820.2,0.0
+2024,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,345857,118.7,2913.8,0.0
+2024,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,219900,104.7,2099.6,0.0
+2024,capitulo_31_fertilizantes,Grécia,resto_do_mundo,132395,96.0,1379.1,0.0
+2024,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,6953,26.0,267.2,0.0
+2024,capitulo_31_fertilizantes,Geórgia,resto_do_mundo,9154,22.0,416.1,0.0
+2024,capitulo_31_fertilizantes,Hungria,resto_do_mundo,36857,11.4,3247.3,0.0
+2024,capitulo_31_fertilizantes,Peru,resto_do_mundo,75138,8.4,8932.2,0.0
+2024,capitulo_31_fertilizantes,Suíça,resto_do_mundo,1417,0.0,101214.3,0.0
+2025,capitulo_31_fertilizantes,TOTAL,total,15493908068,45504641.7,340.5,100.0
+2025,capitulo_31_fertilizantes,China,resto_do_mundo,2908208954,11985625.5,242.6,26.34
+2025,capitulo_31_fertilizantes,Rússia,resto_do_mundo,4002993065,11086718.8,361.1,24.36
+2025,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1590144704,5165295.0,307.9,11.35
+2025,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1157232767,2142444.9,540.1,4.71
+2025,capitulo_31_fertilizantes,Egito,resto_do_mundo,417989453,1819303.7,229.8,4.0
+2025,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,709632615,1802907.5,393.6,3.96
+2025,capitulo_31_fertilizantes,Israel,resto_do_mundo,499030179,1624183.1,307.2,3.57
+2025,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,452939913,1201954.6,376.8,2.64
+2025,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,659853794,1081561.7,610.1,2.38
+2025,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,616134834,1048336.5,587.7,2.3
+2025,capitulo_31_fertilizantes,Catar,dentro_do_golfo,403621725,991078.4,407.3,2.18
+2025,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,246238946,715619.4,344.1,1.57
+2025,capitulo_31_fertilizantes,Argélia,resto_do_mundo,275682394,696031.9,396.1,1.53
+2025,capitulo_31_fertilizantes,Noruega,resto_do_mundo,229517109,650894.9,352.6,1.43
+2025,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,147515792,479697.2,307.5,1.05
+2025,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,155796444,399961.8,389.5,0.88
+2025,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,109325234,341790.4,319.9,0.75
+2025,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,120995944,326900.0,370.1,0.72
+2025,capitulo_31_fertilizantes,Espanha,resto_do_mundo,88889732,273192.8,325.4,0.6
+2025,capitulo_31_fertilizantes,Índia,resto_do_mundo,52000613,248283.0,209.4,0.55
+2025,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,75967326,227943.5,333.3,0.5
+2025,capitulo_31_fertilizantes,Irã,dentro_do_golfo,66833818,184737.6,361.8,0.41
+2025,capitulo_31_fertilizantes,Cazaquistão,resto_do_mundo,83654315,163082.1,513.0,0.36
+2025,capitulo_31_fertilizantes,Uzbequistão,resto_do_mundo,52690659,129539.6,406.8,0.28
+2025,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,50662867,112130.2,451.8,0.25
+2025,capitulo_31_fertilizantes,Barein,dentro_do_golfo,39513711,93686.3,421.8,0.21
+2025,capitulo_31_fertilizantes,Trinidad e Tobago,resto_do_mundo,30516598,63298.1,482.1,0.14
+2025,capitulo_31_fertilizantes,Líbano,resto_do_mundo,28208082,60292.6,467.9,0.13
+2025,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,7889820,41057.2,192.2,0.09
+2025,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,27571116,40535.2,680.2,0.09
+2025,capitulo_31_fertilizantes,Laos,resto_do_mundo,11768998,38862.1,302.8,0.09
+2025,capitulo_31_fertilizantes,Chile,resto_do_mundo,32256796,37959.2,849.8,0.08
+2025,capitulo_31_fertilizantes,Polônia,resto_do_mundo,19602154,37729.4,519.5,0.08
+2025,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,16577537,33531.2,494.4,0.07
+2025,capitulo_31_fertilizantes,Tunísia,resto_do_mundo,16388204,33434.1,490.2,0.07
+2025,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,13186673,32185.0,409.7,0.07
+2025,capitulo_31_fertilizantes,México,resto_do_mundo,18757368,15059.0,1245.6,0.03
+2025,capitulo_31_fertilizantes,Suécia,resto_do_mundo,5726491,12579.8,455.2,0.03
+2025,capitulo_31_fertilizantes,Belarus,resto_do_mundo,3538214,12235.5,289.2,0.03
+2025,capitulo_31_fertilizantes,Colômbia,resto_do_mundo,3537314,9990.0,354.1,0.02
+2025,capitulo_31_fertilizantes,Itália,resto_do_mundo,14118160,6804.1,2075.0,0.01
+2025,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,3590198,6253.5,574.1,0.01
+2025,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,2388000,6000.0,398.0,0.01
+2025,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,3055000,5000.0,611.0,0.01
+2025,capitulo_31_fertilizantes,França,resto_do_mundo,5435654,4665.6,1165.1,0.01
+2025,capitulo_31_fertilizantes,Argentina,resto_do_mundo,1377436,2959.7,465.4,0.01
+2025,capitulo_31_fertilizantes,Turquia,resto_do_mundo,3068910,2665.9,1151.2,0.01
+2025,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,796156,2415.3,329.6,0.01
+2025,capitulo_31_fertilizantes,Portugal,resto_do_mundo,1179359,1717.3,686.7,0.0
+2025,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,5088648,927.4,5486.9,0.0
+2025,capitulo_31_fertilizantes,Austrália,resto_do_mundo,981240,613.7,1599.0,0.0
+2025,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,678239,516.0,1314.3,0.0
+2025,capitulo_31_fertilizantes,Eslováquia,resto_do_mundo,298048,504.0,591.4,0.0
+2025,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1213426,385.5,3147.7,0.0
+2025,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,213726,303.9,703.3,0.0
+2025,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,243532,275.1,885.2,0.0
+2025,capitulo_31_fertilizantes,Guatemala,resto_do_mundo,50874,252.0,201.9,0.0
+2025,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,438970,237.7,1846.6,0.0
+2025,capitulo_31_fertilizantes,Singapura,resto_do_mundo,52518,200.7,261.6,0.0
+2025,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,399565,145.8,2741.0,0.0
+2025,capitulo_31_fertilizantes,Brasil,resto_do_mundo,175084,87.1,2009.4,0.0
+2025,capitulo_31_fertilizantes,Peru,resto_do_mundo,124335,26.3,4725.4,0.0
+2025,capitulo_31_fertilizantes,Hungria,resto_do_mundo,67783,22.0,3088.1,0.0
+2025,capitulo_31_fertilizantes,Grécia,resto_do_mundo,21191,10.3,2050.8,0.0
+2025,capitulo_31_fertilizantes,Japão,resto_do_mundo,255231,4.1,62236.3,0.0
+2025,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,3603,0.1,40943.2,0.0
+2025,capitulo_31_fertilizantes,Suíça,resto_do_mundo,910,0.0,303333.3,0.0
+2026,capitulo_31_fertilizantes,TOTAL,total,11182671491,28460606.0,392.9,100.0
+2026,capitulo_31_fertilizantes,Rússia,resto_do_mundo,2683387790,6218049.6,431.5,21.85
+2026,capitulo_31_fertilizantes,China,resto_do_mundo,1250157543,5185655.6,241.1,18.22
+2026,capitulo_31_fertilizantes,Canadá,resto_do_mundo,1480154980,4272874.0,346.4,15.01
+2026,capitulo_31_fertilizantes,Marrocos,resto_do_mundo,1352508843,2190719.8,617.4,7.7
+2026,capitulo_31_fertilizantes,Turcomenistão,resto_do_mundo,618449016,1828362.8,338.3,6.42
+2026,capitulo_31_fertilizantes,Israel,resto_do_mundo,490157157,1398477.4,350.5,4.91
+2026,capitulo_31_fertilizantes,Egito,resto_do_mundo,335720424,1193867.5,281.2,4.19
+2026,capitulo_31_fertilizantes,Estados Unidos,resto_do_mundo,589979669,911128.7,647.5,3.2
+2026,capitulo_31_fertilizantes,Nigéria,resto_do_mundo,395288321,796836.0,496.1,2.8
+2026,capitulo_31_fertilizantes,Alemanha,resto_do_mundo,202657636,511848.2,395.9,1.8
+2026,capitulo_31_fertilizantes,Noruega,resto_do_mundo,153662417,431777.8,355.9,1.52
+2026,capitulo_31_fertilizantes,Omã,oma_fora_do_estreito,173072372,422468.5,409.7,1.48
+2026,capitulo_31_fertilizantes,Arábia Saudita,dentro_do_golfo,283122100,361439.4,783.3,1.27
+2026,capitulo_31_fertilizantes,Países Baixos (Holanda),resto_do_mundo,132510720,346692.7,382.2,1.22
+2026,capitulo_31_fertilizantes,Argélia,resto_do_mundo,144841559,314335.3,460.8,1.1
+2026,capitulo_31_fertilizantes,Índia,resto_do_mundo,72341010,291289.1,248.3,1.02
+2026,capitulo_31_fertilizantes,Venezuela,resto_do_mundo,128434517,289211.7,444.1,1.02
+2026,capitulo_31_fertilizantes,Catar,dentro_do_golfo,92067504,215024.3,428.2,0.76
+2026,capitulo_31_fertilizantes,Bolívia,resto_do_mundo,86828842,207472.0,418.5,0.73
+2026,capitulo_31_fertilizantes,Cazaquistão,resto_do_mundo,123121656,200985.1,612.6,0.71
+2026,capitulo_31_fertilizantes,Uzbequistão,resto_do_mundo,52359036,118819.8,440.7,0.42
+2026,capitulo_31_fertilizantes,Espanha,resto_do_mundo,54506839,117161.0,465.2,0.41
+2026,capitulo_31_fertilizantes,Emirados Árabes Unidos,dentro_do_golfo,35767925,95170.4,375.8,0.33
+2026,capitulo_31_fertilizantes,Reino Unido,resto_do_mundo,19098990,92090.3,207.4,0.32
+2026,capitulo_31_fertilizantes,Jordânia,resto_do_mundo,31548576,83423.3,378.2,0.29
+2026,capitulo_31_fertilizantes,Finlândia,resto_do_mundo,42130601,79183.6,532.1,0.28
+2026,capitulo_31_fertilizantes,Irã,dentro_do_golfo,21570990,62721.7,343.9,0.22
+2026,capitulo_31_fertilizantes,Barein,dentro_do_golfo,20093507,49777.5,403.7,0.17
+2026,capitulo_31_fertilizantes,Senegal,resto_do_mundo,3307684,34680.0,95.4,0.12
+2026,capitulo_31_fertilizantes,Polônia,resto_do_mundo,19052864,28578.5,666.7,0.1
+2026,capitulo_31_fertilizantes,Chile,resto_do_mundo,22318431,22852.9,976.6,0.08
+2026,capitulo_31_fertilizantes,Suécia,resto_do_mundo,11836880,22815.3,518.8,0.08
+2026,capitulo_31_fertilizantes,Bulgária,resto_do_mundo,9848580,20000.0,492.4,0.07
+2026,capitulo_31_fertilizantes,Turquia,resto_do_mundo,11610688,12458.0,932.0,0.04
+2026,capitulo_31_fertilizantes,Bélgica,resto_do_mundo,5739126,6912.4,830.3,0.02
+2026,capitulo_31_fertilizantes,França,resto_do_mundo,4976454,5172.9,962.0,0.02
+2026,capitulo_31_fertilizantes,"Tcheca, República",resto_do_mundo,1696180,4914.7,345.1,0.02
+2026,capitulo_31_fertilizantes,Hong Kong,resto_do_mundo,2212523,4782.6,462.6,0.02
+2026,capitulo_31_fertilizantes,México,resto_do_mundo,9525880,2943.5,3236.3,0.01
+2026,capitulo_31_fertilizantes,Itália,resto_do_mundo,6666170,2783.9,2394.5,0.01
+2026,capitulo_31_fertilizantes,Singapura,resto_do_mundo,487646,1242.0,392.6,0.0
+2026,capitulo_31_fertilizantes,Portugal,resto_do_mundo,796567,1158.9,687.3,0.0
+2026,capitulo_31_fertilizantes,Suíça,resto_do_mundo,412744,771.0,535.3,0.0
+2026,capitulo_31_fertilizantes,Irlanda,resto_do_mundo,2430923,460.1,5284.0,0.0
+2026,capitulo_31_fertilizantes,Austrália,resto_do_mundo,546070,271.0,2015.4,0.0
+2026,capitulo_31_fertilizantes,Paraguai,resto_do_mundo,1029163,149.5,6882.0,0.0
+2026,capitulo_31_fertilizantes,Lituânia,resto_do_mundo,146370,144.0,1016.5,0.0
+2026,capitulo_31_fertilizantes,Argentina,resto_do_mundo,604430,131.4,4599.2,0.0
+2026,capitulo_31_fertilizantes,África do Sul,resto_do_mundo,275499,118.2,2330.3,0.0
+2026,capitulo_31_fertilizantes,Vietnã,resto_do_mundo,76414,85.2,896.7,0.0
+2026,capitulo_31_fertilizantes,Costa Rica,resto_do_mundo,237813,80.0,2972.7,0.0
+2026,capitulo_31_fertilizantes,Peru,resto_do_mundo,302272,67.4,4485.2,0.0
+2026,capitulo_31_fertilizantes,Tailândia,resto_do_mundo,22410,54.0,415.0,0.0
+2026,capitulo_31_fertilizantes,Uruguai,resto_do_mundo,62054,25.6,2422.7,0.0
+2026,capitulo_31_fertilizantes,Grécia,resto_do_mundo,51655,24.7,2093.0,0.0
+2026,capitulo_31_fertilizantes,Coreia do Sul,resto_do_mundo,8848,23.5,375.9,0.0
+2026,capitulo_31_fertilizantes,Belarus,resto_do_mundo,13055,22.6,578.9,0.0
+2026,capitulo_31_fertilizantes,Japão,resto_do_mundo,634334,11.6,54868.4,0.0
+2026,capitulo_31_fertilizantes,Eslovênia,resto_do_mundo,193518,6.2,31466.3,0.0
+2026,capitulo_31_fertilizantes,Ucrânia,resto_do_mundo,6451,1.0,6318.3,0.0
+2026,capitulo_31_fertilizantes,Taiwan (Formosa),resto_do_mundo,1080,0.2,4426.2,0.0
+2026,capitulo_31_fertilizantes,Geórgia,resto_do_mundo,175,0.1,1750.0,0.0
+2015,ureia_ncm_31021010,TOTAL,total,879591989,2846796.0,309.0,100.0
+2015,ureia_ncm_31021010,Catar,dentro_do_golfo,450031217,1459137.3,308.4,51.26
+2015,ureia_ncm_31021010,Rússia,resto_do_mundo,145549054,468283.2,310.8,16.45
+2015,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,56495475,182358.4,309.8,6.41
+2015,ureia_ncm_31021010,Omã,oma_fora_do_estreito,54591749,174024.1,313.7,6.11
+2015,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,47249639,151873.9,311.1,5.33
+2015,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,31086738,108250.0,287.2,3.8
+2015,ureia_ncm_31021010,Barein,dentro_do_golfo,18850136,67297.1,280.1,2.36
+2015,ureia_ncm_31021010,Argentina,resto_do_mundo,19423006,61500.0,315.8,2.16
+2015,ureia_ncm_31021010,Ucrânia,resto_do_mundo,16421381,53855.8,304.9,1.89
+2015,ureia_ncm_31021010,Venezuela,resto_do_mundo,16320360,44480.0,366.9,1.56
+2015,ureia_ncm_31021010,China,resto_do_mundo,11379228,32752.0,347.4,1.15
+2015,ureia_ncm_31021010,Nigéria,resto_do_mundo,6433558,23484.0,274.0,0.82
+2015,ureia_ncm_31021010,Belarus,resto_do_mundo,3241388,10697.2,303.0,0.38
+2015,ureia_ncm_31021010,Alemanha,resto_do_mundo,1903415,6435.9,295.8,0.23
+2015,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,321195,1705.8,188.3,0.06
+2015,ureia_ncm_31021010,Eslováquia,resto_do_mundo,80552,240.0,335.6,0.01
+2015,ureia_ncm_31021010,Estônia,resto_do_mundo,81444,229.8,354.4,0.01
+2015,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,122737,171.5,715.7,0.01
+2015,ureia_ncm_31021010,Hong Kong,resto_do_mundo,8746,20.0,437.3,0.0
+2015,ureia_ncm_31021010,México,resto_do_mundo,754,0.0,26928.6,0.0
+2015,ureia_ncm_31021010,França,resto_do_mundo,217,0.0,8680.0,0.0
+2016,ureia_ncm_31021010,TOTAL,total,902404945,3957293.4,228.0,100.0
+2016,ureia_ncm_31021010,Catar,dentro_do_golfo,312270857,1369770.3,228.0,34.61
+2016,ureia_ncm_31021010,Rússia,resto_do_mundo,111403068,534796.1,208.3,13.51
+2016,ureia_ncm_31021010,Barein,dentro_do_golfo,69040812,306161.5,225.5,7.74
+2016,ureia_ncm_31021010,Omã,oma_fora_do_estreito,72859271,302690.0,240.7,7.65
+2016,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,69840732,296779.2,235.3,7.5
+2016,ureia_ncm_31021010,Venezuela,resto_do_mundo,57484480,237056.9,242.5,5.99
+2016,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,49074953,212582.0,230.9,5.37
+2016,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,36141588,153197.0,235.9,3.87
+2016,ureia_ncm_31021010,Argélia,resto_do_mundo,26841273,117298.3,228.8,2.96
+2016,ureia_ncm_31021010,Irã,dentro_do_golfo,24174674,111910.4,216.0,2.83
+2016,ureia_ncm_31021010,Argentina,resto_do_mundo,26069294,111472.7,233.9,2.82
+2016,ureia_ncm_31021010,Nigéria,resto_do_mundo,14745661,66520.7,221.7,1.68
+2016,ureia_ncm_31021010,Egito,resto_do_mundo,12346905,60450.0,204.2,1.53
+2016,ureia_ncm_31021010,Indonésia,resto_do_mundo,9335464,34999.7,266.7,0.88
+2016,ureia_ncm_31021010,China,resto_do_mundo,6375111,23257.5,274.1,0.59
+2016,ureia_ncm_31021010,Alemanha,resto_do_mundo,2436948,10258.1,237.6,0.26
+2016,ureia_ncm_31021010,Suíça,resto_do_mundo,1130480,5250.0,215.3,0.13
+2016,ureia_ncm_31021010,Belarus,resto_do_mundo,392669,1633.0,240.5,0.04
+2016,ureia_ncm_31021010,Singapura,resto_do_mundo,147007,600.0,245.0,0.02
+2016,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,217032,362.0,599.6,0.01
+2016,ureia_ncm_31021010,Hong Kong,resto_do_mundo,68048,220.0,309.3,0.01
+2016,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,7983,28.0,285.1,0.0
+2016,ureia_ncm_31021010,México,resto_do_mundo,477,0.0,26500.0,0.0
+2016,ureia_ncm_31021010,Espanha,resto_do_mundo,158,0.0,17555.6,0.0
+2017,ureia_ncm_31021010,TOTAL,total,1243621473,5423823.4,229.3,100.0
+2017,ureia_ncm_31021010,Catar,dentro_do_golfo,393004348,1701295.5,231.0,31.37
+2017,ureia_ncm_31021010,Rússia,resto_do_mundo,171875585,768974.1,223.5,14.18
+2017,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,105737332,434337.8,243.4,8.01
+2017,ureia_ncm_31021010,Nigéria,resto_do_mundo,97680427,419367.0,232.9,7.73
+2017,ureia_ncm_31021010,Omã,oma_fora_do_estreito,85537290,363154.6,235.5,6.7
+2017,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,85004341,361170.6,235.4,6.66
+2017,ureia_ncm_31021010,Argélia,resto_do_mundo,71784713,307550.4,233.4,5.67
+2017,ureia_ncm_31021010,Barein,dentro_do_golfo,50373887,230457.6,218.6,4.25
+2017,ureia_ncm_31021010,Venezuela,resto_do_mundo,50670113,212843.4,238.1,3.92
+2017,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,44703264,197292.5,226.6,3.64
+2017,ureia_ncm_31021010,Egito,resto_do_mundo,32821275,160096.2,205.0,2.95
+2017,ureia_ncm_31021010,Irã,dentro_do_golfo,21660377,112535.4,192.5,2.07
+2017,ureia_ncm_31021010,Argentina,resto_do_mundo,14125152,63991.2,220.7,1.18
+2017,ureia_ncm_31021010,Ucrânia,resto_do_mundo,1936336,25991.1,74.5,0.48
+2017,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,5887297,23433.9,251.2,0.43
+2017,ureia_ncm_31021010,Alemanha,resto_do_mundo,4976207,20275.3,245.4,0.37
+2017,ureia_ncm_31021010,Belarus,resto_do_mundo,1315781,6000.0,219.3,0.11
+2017,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,1325689,4850.6,273.3,0.09
+2017,ureia_ncm_31021010,Polônia,resto_do_mundo,1631687,4800.0,339.9,0.09
+2017,ureia_ncm_31021010,China,resto_do_mundo,1259701,4326.5,291.2,0.08
+2017,ureia_ncm_31021010,Suíça,resto_do_mundo,224797,775.2,290.0,0.01
+2017,ureia_ncm_31021010,Eslováquia,resto_do_mundo,85244,304.0,280.4,0.01
+2017,ureia_ncm_31021010,Reino Unido,resto_do_mundo,494,0.3,1733.3,0.0
+2017,ureia_ncm_31021010,Bélgica,resto_do_mundo,136,0.1,1152.5,0.0
+2018,ureia_ncm_31021010,TOTAL,total,1525761814,5560643.3,274.4,100.0
+2018,ureia_ncm_31021010,Argélia,resto_do_mundo,294951170,1056986.1,279.0,19.01
+2018,ureia_ncm_31021010,Rússia,resto_do_mundo,260513655,961116.8,271.1,17.28
+2018,ureia_ncm_31021010,Catar,dentro_do_golfo,196610253,729431.5,269.5,13.12
+2018,ureia_ncm_31021010,Nigéria,resto_do_mundo,134458219,490604.4,274.1,8.82
+2018,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,132575571,469617.9,282.3,8.45
+2018,ureia_ncm_31021010,Egito,resto_do_mundo,109757391,389220.1,282.0,7.0
+2018,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,94097337,375286.8,250.7,6.75
+2018,ureia_ncm_31021010,Omã,oma_fora_do_estreito,90806849,339211.7,267.7,6.1
+2018,ureia_ncm_31021010,Barein,dentro_do_golfo,61142061,215998.1,283.1,3.88
+2018,ureia_ncm_31021010,Bolívia,resto_do_mundo,51565061,168793.3,305.5,3.04
+2018,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,37514749,137262.0,273.3,2.47
+2018,ureia_ncm_31021010,Alemanha,resto_do_mundo,22492907,88042.4,255.5,1.58
+2018,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,8683576,28949.6,300.0,0.52
+2018,ureia_ncm_31021010,Venezuela,resto_do_mundo,6940226,27500.0,252.4,0.49
+2018,ureia_ncm_31021010,Belarus,resto_do_mundo,7666863,27221.8,281.6,0.49
+2018,ureia_ncm_31021010,Argentina,resto_do_mundo,6693723,25000.0,267.7,0.45
+2018,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,5704358,20000.0,285.2,0.36
+2018,ureia_ncm_31021010,Polônia,resto_do_mundo,1815280,5440.0,333.7,0.1
+2018,ureia_ncm_31021010,China,resto_do_mundo,1569345,4334.0,362.1,0.08
+2018,ureia_ncm_31021010,Eslováquia,resto_do_mundo,163916,513.0,319.5,0.01
+2018,ureia_ncm_31021010,Hong Kong,resto_do_mundo,34513,100.0,345.1,0.0
+2018,ureia_ncm_31021010,Irã,dentro_do_golfo,1317,11.2,117.6,0.0
+2018,ureia_ncm_31021010,Bélgica,resto_do_mundo,2674,2.1,1254.8,0.0
+2018,ureia_ncm_31021010,Espanha,resto_do_mundo,800,0.4,2000.0,0.0
+2019,ureia_ncm_31021010,TOTAL,total,1529013835,5585548.1,273.7,100.0
+2019,ureia_ncm_31021010,Catar,dentro_do_golfo,313613222,1164279.3,269.4,20.84
+2019,ureia_ncm_31021010,Rússia,resto_do_mundo,293895485,1034656.6,284.1,18.52
+2019,ureia_ncm_31021010,Argélia,resto_do_mundo,271510039,982844.5,276.2,17.6
+2019,ureia_ncm_31021010,Egito,resto_do_mundo,146877793,513704.1,285.9,9.2
+2019,ureia_ncm_31021010,Irã,dentro_do_golfo,113888364,510053.3,223.3,9.13
+2019,ureia_ncm_31021010,Nigéria,resto_do_mundo,127424966,458342.4,278.0,8.21
+2019,ureia_ncm_31021010,Omã,oma_fora_do_estreito,41468643,140516.0,295.1,2.52
+2019,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,42103166,135266.6,311.3,2.42
+2019,ureia_ncm_31021010,Argentina,resto_do_mundo,35320370,130257.0,271.2,2.33
+2019,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,26342453,89930.0,292.9,1.61
+2019,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,23347682,87903.6,265.6,1.57
+2019,ureia_ncm_31021010,Barein,dentro_do_golfo,21583402,80936.6,266.7,1.45
+2019,ureia_ncm_31021010,Alemanha,resto_do_mundo,18252612,68467.4,266.6,1.23
+2019,ureia_ncm_31021010,Bolívia,resto_do_mundo,16625758,67491.0,246.3,1.21
+2019,ureia_ncm_31021010,Belarus,resto_do_mundo,18517324,61339.0,301.9,1.1
+2019,ureia_ncm_31021010,Malásia,resto_do_mundo,10277242,32956.9,311.8,0.59
+2019,ureia_ncm_31021010,China,resto_do_mundo,4492472,12526.0,358.7,0.22
+2019,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,2946270,12427.8,237.1,0.22
+2019,ureia_ncm_31021010,Letônia,resto_do_mundo,201115,694.0,289.8,0.01
+2019,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,164693,522.0,315.5,0.01
+2019,ureia_ncm_31021010,Polônia,resto_do_mundo,77025,200.0,385.1,0.0
+2019,ureia_ncm_31021010,Hong Kong,resto_do_mundo,39560,116.0,341.0,0.0
+2019,ureia_ncm_31021010,Suíça,resto_do_mundo,41613,115.2,361.2,0.0
+2019,ureia_ncm_31021010,Bélgica,resto_do_mundo,2566,2.9,885.4,0.0
+2020,ureia_ncm_31021010,TOTAL,total,1724629331,7127473.7,242.0,100.0
+2020,ureia_ncm_31021010,Catar,dentro_do_golfo,449740019,1868269.9,240.7,26.21
+2020,ureia_ncm_31021010,Argélia,resto_do_mundo,391502454,1593704.5,245.7,22.36
+2020,ureia_ncm_31021010,Rússia,resto_do_mundo,333480026,1317026.2,253.2,18.48
+2020,ureia_ncm_31021010,Irã,dentro_do_golfo,112997800,505433.7,223.6,7.09
+2020,ureia_ncm_31021010,Nigéria,resto_do_mundo,104624673,432219.9,242.1,6.06
+2020,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,76331365,324990.4,234.9,4.56
+2020,ureia_ncm_31021010,Omã,oma_fora_do_estreito,65614163,276259.0,237.5,3.88
+2020,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,42670291,188227.0,226.7,2.64
+2020,ureia_ncm_31021010,Venezuela,resto_do_mundo,23031731,110609.2,208.2,1.55
+2020,ureia_ncm_31021010,Alemanha,resto_do_mundo,23792630,105148.4,226.3,1.48
+2020,ureia_ncm_31021010,Egito,resto_do_mundo,23212110,90981.2,255.1,1.28
+2020,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,16781879,68844.3,243.8,0.97
+2020,ureia_ncm_31021010,Turquia,resto_do_mundo,10780244,46996.8,229.4,0.66
+2020,ureia_ncm_31021010,Malásia,resto_do_mundo,11691918,43010.1,271.8,0.6
+2020,ureia_ncm_31021010,Barein,dentro_do_golfo,7594246,35251.6,215.4,0.49
+2020,ureia_ncm_31021010,Vietnã,resto_do_mundo,8814559,33002.9,267.1,0.46
+2020,ureia_ncm_31021010,Indonésia,resto_do_mundo,6496765,28300.8,229.6,0.4
+2020,ureia_ncm_31021010,Bolívia,resto_do_mundo,5264404,22763.0,231.3,0.32
+2020,ureia_ncm_31021010,Argentina,resto_do_mundo,3972501,15809.8,251.3,0.22
+2020,ureia_ncm_31021010,China,resto_do_mundo,3171580,10802.0,293.6,0.15
+2020,ureia_ncm_31021010,Trinidad e Tobago,resto_do_mundo,1339040,5000.0,267.8,0.07
+2020,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,932470,3140.0,297.0,0.04
+2020,ureia_ncm_31021010,Suíça,resto_do_mundo,186853,579.6,322.4,0.01
+2020,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,156870,522.0,300.5,0.01
+2020,ureia_ncm_31021010,França,resto_do_mundo,379755,352.0,1078.8,0.0
+2020,ureia_ncm_31021010,Bélgica,resto_do_mundo,33556,116.8,287.4,0.0
+2020,ureia_ncm_31021010,Panamá,resto_do_mundo,35159,112.0,313.9,0.0
+2020,ureia_ncm_31021010,México,resto_do_mundo,270,0.7,382.4,0.0
+2021,ureia_ncm_31021010,TOTAL,total,3041295786,7787815.6,390.5,100.0
+2021,ureia_ncm_31021010,Catar,dentro_do_golfo,691917237,1814690.7,381.3,23.3
+2021,ureia_ncm_31021010,Rússia,resto_do_mundo,508106547,1375876.5,369.3,17.67
+2021,ureia_ncm_31021010,Omã,oma_fora_do_estreito,485681677,1250206.5,388.5,16.05
+2021,ureia_ncm_31021010,Argélia,resto_do_mundo,433006653,1086434.1,398.6,13.95
+2021,ureia_ncm_31021010,Nigéria,resto_do_mundo,389620948,844569.9,461.3,10.84
+2021,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,83372228,234646.9,355.3,3.01
+2021,ureia_ncm_31021010,Irã,dentro_do_golfo,57292346,200033.8,286.4,2.57
+2021,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,53694891,147207.9,364.8,1.89
+2021,ureia_ncm_31021010,Venezuela,resto_do_mundo,51153699,130152.2,393.0,1.67
+2021,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,49273283,125446.4,392.8,1.61
+2021,ureia_ncm_31021010,Barein,dentro_do_golfo,34791022,105163.9,330.8,1.35
+2021,ureia_ncm_31021010,Egito,resto_do_mundo,38305848,97551.7,392.7,1.25
+2021,ureia_ncm_31021010,Azerbaijão,resto_do_mundo,44724679,96055.6,465.6,1.23
+2021,ureia_ncm_31021010,Alemanha,resto_do_mundo,23883968,70758.3,337.5,0.91
+2021,ureia_ncm_31021010,Trinidad e Tobago,resto_do_mundo,13249457,47399.8,279.5,0.61
+2021,ureia_ncm_31021010,China,resto_do_mundo,17735570,46901.0,378.1,0.6
+2021,ureia_ncm_31021010,Bolívia,resto_do_mundo,31160347,45569.0,683.8,0.59
+2021,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,24269937,39418.9,615.7,0.51
+2021,ureia_ncm_31021010,Líbia,resto_do_mundo,6077060,16334.0,372.0,0.21
+2021,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,1680189,5045.2,333.0,0.06
+2021,ureia_ncm_31021010,Indonésia,resto_do_mundo,1135568,4654.8,244.0,0.06
+2021,ureia_ncm_31021010,Singapura,resto_do_mundo,845689,3300.0,256.3,0.04
+2021,ureia_ncm_31021010,Polônia,resto_do_mundo,77135,200.0,385.7,0.0
+2021,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,224353,192.0,1168.5,0.0
+2021,ureia_ncm_31021010,Bélgica,resto_do_mundo,4632,3.4,1348.5,0.0
+2021,ureia_ncm_31021010,Canadá,resto_do_mundo,10070,2.0,5035.0,0.0
+2021,ureia_ncm_31021010,Itália,resto_do_mundo,426,1.0,426.0,0.0
+2021,ureia_ncm_31021010,Reino Unido,resto_do_mundo,327,0.2,1969.9,0.0
+2022,ureia_ncm_31021010,TOTAL,total,4459728347,7089437.9,629.1,100.0
+2022,ureia_ncm_31021010,Omã,oma_fora_do_estreito,980906330,1510103.8,649.6,21.3
+2022,ureia_ncm_31021010,Catar,dentro_do_golfo,910228428,1418424.7,641.7,20.01
+2022,ureia_ncm_31021010,Nigéria,resto_do_mundo,824297043,1217797.8,676.9,17.18
+2022,ureia_ncm_31021010,Rússia,resto_do_mundo,657629040,1132896.7,580.5,15.98
+2022,ureia_ncm_31021010,Argélia,resto_do_mundo,400965478,650041.6,616.8,9.17
+2022,ureia_ncm_31021010,Irã,dentro_do_golfo,132881290,256378.4,518.3,3.62
+2022,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,147155923,246335.8,597.4,3.47
+2022,ureia_ncm_31021010,Venezuela,resto_do_mundo,146539757,238105.2,615.4,3.36
+2022,ureia_ncm_31021010,Bolívia,resto_do_mundo,87111311,148564.1,586.4,2.1
+2022,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,58659662,109958.7,533.5,1.55
+2022,ureia_ncm_31021010,Alemanha,resto_do_mundo,44627966,59696.3,747.6,0.84
+2022,ureia_ncm_31021010,Barein,dentro_do_golfo,39566363,56005.9,706.5,0.79
+2022,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,19088378,33060.8,577.4,0.47
+2022,ureia_ncm_31021010,China,resto_do_mundo,3812367,4997.0,762.9,0.07
+2022,ureia_ncm_31021010,Azerbaijão,resto_do_mundo,2976170,3565.9,834.6,0.05
+2022,ureia_ncm_31021010,Coveite (Kuweit),dentro_do_golfo,2085342,2625.0,794.4,0.04
+2022,ureia_ncm_31021010,França,resto_do_mundo,933188,656.0,1422.5,0.01
+2022,ureia_ncm_31021010,Guiana,resto_do_mundo,123870,121.5,1019.5,0.0
+2022,ureia_ncm_31021010,Polônia,resto_do_mundo,135770,100.0,1357.7,0.0
+2022,ureia_ncm_31021010,Bélgica,resto_do_mundo,2876,2.0,1452.5,0.0
+2022,ureia_ncm_31021010,Reino Unido,resto_do_mundo,1603,0.7,2214.1,0.0
+2022,ureia_ncm_31021010,Argentina,resto_do_mundo,42,0.1,700.0,0.0
+2022,ureia_ncm_31021010,Índia,resto_do_mundo,150,0.0,inf,0.0
+2023,ureia_ncm_31021010,TOTAL,total,2624448001,7314227.8,358.8,100.0
+2023,ureia_ncm_31021010,Omã,oma_fora_do_estreito,560462821,1609421.7,348.2,22.0
+2023,ureia_ncm_31021010,Catar,dentro_do_golfo,497744442,1345036.5,370.1,18.39
+2023,ureia_ncm_31021010,Nigéria,resto_do_mundo,449138418,1172853.0,382.9,16.04
+2023,ureia_ncm_31021010,Rússia,resto_do_mundo,279811111,845901.5,330.8,11.57
+2023,ureia_ncm_31021010,Argélia,resto_do_mundo,272701696,715589.8,381.1,9.78
+2023,ureia_ncm_31021010,Venezuela,resto_do_mundo,184087617,584953.9,314.7,8.0
+2023,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,86959127,238125.8,365.2,3.26
+2023,ureia_ncm_31021010,Bolívia,resto_do_mundo,59372423,178974.0,331.7,2.45
+2023,ureia_ncm_31021010,Barein,dentro_do_golfo,58527284,144147.9,406.0,1.97
+2023,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,41194800,128578.7,320.4,1.76
+2023,ureia_ncm_31021010,China,resto_do_mundo,49353960,120835.5,408.4,1.65
+2023,ureia_ncm_31021010,Trinidad e Tobago,resto_do_mundo,24329214,59318.0,410.1,0.81
+2023,ureia_ncm_31021010,Uzbequistão,resto_do_mundo,17284532,49420.2,349.7,0.68
+2023,ureia_ncm_31021010,Alemanha,resto_do_mundo,12900632,38152.6,338.1,0.52
+2023,ureia_ncm_31021010,Indonésia,resto_do_mundo,12143113,37433.6,324.4,0.51
+2023,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,12709564,33095.1,384.0,0.45
+2023,ureia_ncm_31021010,Hong Kong,resto_do_mundo,2069098,5086.0,406.8,0.07
+2023,ureia_ncm_31021010,Japão,resto_do_mundo,1389000,3500.0,396.9,0.05
+2023,ureia_ncm_31021010,França,resto_do_mundo,1767958,2818.2,627.3,0.04
+2023,ureia_ncm_31021010,Singapura,resto_do_mundo,197183,476.0,414.2,0.01
+2023,ureia_ncm_31021010,Guiana,resto_do_mundo,206100,345.0,597.4,0.0
+2023,ureia_ncm_31021010,Eslováquia,resto_do_mundo,90935,162.0,561.3,0.0
+2023,ureia_ncm_31021010,Bélgica,resto_do_mundo,3391,1.7,1972.7,0.0
+2023,ureia_ncm_31021010,Reino Unido,resto_do_mundo,3510,1.1,3117.2,0.0
+2023,ureia_ncm_31021010,Canadá,resto_do_mundo,72,0.0,inf,0.0
+2024,ureia_ncm_31021010,TOTAL,total,2687692092,8309735.0,323.4,100.0
+2024,ureia_ncm_31021010,Omã,oma_fora_do_estreito,477766392,1591186.8,300.3,19.15
+2024,ureia_ncm_31021010,Nigéria,resto_do_mundo,536006247,1586073.7,337.9,19.09
+2024,ureia_ncm_31021010,Rússia,resto_do_mundo,488212696,1506625.1,324.0,18.13
+2024,ureia_ncm_31021010,Catar,dentro_do_golfo,397648485,1183348.9,336.0,14.24
+2024,ureia_ncm_31021010,Venezuela,resto_do_mundo,168143732,526090.2,319.6,6.33
+2024,ureia_ncm_31021010,Argélia,resto_do_mundo,155111702,462852.6,335.1,5.57
+2024,ureia_ncm_31021010,Bolívia,resto_do_mundo,95831429,338859.0,282.8,4.08
+2024,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,75719562,250335.4,302.5,3.01
+2024,ureia_ncm_31021010,Barein,dentro_do_golfo,78779237,244875.3,321.7,2.95
+2024,ureia_ncm_31021010,Egito,resto_do_mundo,54239355,153468.6,353.4,1.85
+2024,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,47427020,143874.8,329.6,1.73
+2024,ureia_ncm_31021010,Azerbaijão,resto_do_mundo,21503625,65589.6,327.9,0.79
+2024,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,18911637,62408.8,303.0,0.75
+2024,ureia_ncm_31021010,China,resto_do_mundo,20284583,49528.0,409.6,0.6
+2024,ureia_ncm_31021010,Alemanha,resto_do_mundo,19189918,48793.9,393.3,0.59
+2024,ureia_ncm_31021010,Malásia,resto_do_mundo,12840876,38564.3,333.0,0.46
+2024,ureia_ncm_31021010,Uzbequistão,resto_do_mundo,9578652,32426.6,295.4,0.39
+2024,ureia_ncm_31021010,Indonésia,resto_do_mundo,3799197,12235.9,310.5,0.15
+2024,ureia_ncm_31021010,Hong Kong,resto_do_mundo,1739325,4270.0,407.3,0.05
+2024,ureia_ncm_31021010,França,resto_do_mundo,2836540,4022.8,705.1,0.05
+2024,ureia_ncm_31021010,Eslovênia,resto_do_mundo,1233528,2520.0,489.5,0.03
+2024,ureia_ncm_31021010,Eslováquia,resto_do_mundo,253720,504.0,503.4,0.01
+2024,ureia_ncm_31021010,Trinidad e Tobago,resto_do_mundo,192600,360.0,535.0,0.0
+2024,ureia_ncm_31021010,Irã,dentro_do_golfo,132494,288.0,460.0,0.0
+2024,ureia_ncm_31021010,Guiana,resto_do_mundo,156165,287.0,544.1,0.0
+2024,ureia_ncm_31021010,Japão,resto_do_mundo,84349,200.0,421.7,0.0
+2024,ureia_ncm_31021010,Turquia,resto_do_mundo,43029,92.0,467.7,0.0
+2024,ureia_ncm_31021010,Polônia,resto_do_mundo,10295,23.8,432.6,0.0
+2024,ureia_ncm_31021010,Geórgia,resto_do_mundo,9154,22.0,416.1,0.0
+2024,ureia_ncm_31021010,Espanha,resto_do_mundo,2720,6.4,425.0,0.0
+2024,ureia_ncm_31021010,Bélgica,resto_do_mundo,1393,0.9,1584.8,0.0
+2024,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,2220,0.6,3663.4,0.0
+2024,ureia_ncm_31021010,Índia,resto_do_mundo,98,0.0,98000.0,0.0
+2024,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,117,0.0,inf,0.0
+2025,ureia_ncm_31021010,TOTAL,total,3054674960,7725046.7,395.4,100.0
+2025,ureia_ncm_31021010,Nigéria,resto_do_mundo,709632615,1802907.5,393.6,23.34
+2025,ureia_ncm_31021010,Rússia,resto_do_mundo,517330702,1286987.3,402.0,16.66
+2025,ureia_ncm_31021010,Omã,oma_fora_do_estreito,452939913,1201954.6,376.8,15.56
+2025,ureia_ncm_31021010,Catar,dentro_do_golfo,403621725,991078.4,407.3,12.83
+2025,ureia_ncm_31021010,Argélia,resto_do_mundo,275682394,696031.9,396.1,9.01
+2025,ureia_ncm_31021010,Venezuela,resto_do_mundo,155796444,399961.8,389.5,5.18
+2025,ureia_ncm_31021010,Bolívia,resto_do_mundo,114005347,300831.0,379.0,3.89
+2025,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,91306226,231305.8,394.7,2.99
+2025,ureia_ncm_31021010,China,resto_do_mundo,89139674,215411.7,413.8,2.79
+2025,ureia_ncm_31021010,Irã,dentro_do_golfo,66833818,184737.6,361.8,2.39
+2025,ureia_ncm_31021010,Uzbequistão,resto_do_mundo,39547749,104667.1,377.8,1.35
+2025,ureia_ncm_31021010,Barein,dentro_do_golfo,39513711,93686.3,421.8,1.21
+2025,ureia_ncm_31021010,Alemanha,resto_do_mundo,27255443,64279.4,424.0,0.83
+2025,ureia_ncm_31021010,Trinidad e Tobago,resto_do_mundo,30516598,63298.1,482.1,0.82
+2025,ureia_ncm_31021010,Egito,resto_do_mundo,20285575,39001.0,520.1,0.5
+2025,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,13186673,32185.0,409.7,0.42
+2025,ureia_ncm_31021010,França,resto_do_mundo,2015527,3030.0,665.2,0.04
+2025,ureia_ncm_31021010,Argentina,resto_do_mundo,735132,2750.0,267.3,0.04
+2025,ureia_ncm_31021010,Hong Kong,resto_do_mundo,1057659,2671.0,396.0,0.03
+2025,ureia_ncm_31021010,Marrocos,resto_do_mundo,1259580,2548.0,494.3,0.03
+2025,ureia_ncm_31021010,Belarus,resto_do_mundo,824981,1935.4,426.2,0.03
+2025,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,630540,1121.1,562.4,0.01
+2025,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,632340,799.0,791.4,0.01
+2025,ureia_ncm_31021010,Turquia,resto_do_mundo,220271,596.0,369.6,0.01
+2025,ureia_ncm_31021010,Eslováquia,resto_do_mundo,298048,504.0,591.4,0.01
+2025,ureia_ncm_31021010,Eslovênia,resto_do_mundo,263880,504.0,523.6,0.01
+2025,ureia_ncm_31021010,Uruguai,resto_do_mundo,101864,176.0,578.8,0.0
+2025,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,19200,46.0,417.4,0.0
+2025,ureia_ncm_31021010,Polônia,resto_do_mundo,12266,28.0,438.1,0.0
+2025,ureia_ncm_31021010,Espanha,resto_do_mundo,6962,12.8,543.9,0.0
+2025,ureia_ncm_31021010,Reino Unido,resto_do_mundo,2103,0.7,2908.7,0.0
+2026,ureia_ncm_31021010,TOTAL,total,1573986686,3532750.0,445.5,100.0
+2026,ureia_ncm_31021010,Nigéria,resto_do_mundo,395288321,796836.0,496.1,22.56
+2026,ureia_ncm_31021010,Rússia,resto_do_mundo,321203249,745830.1,430.7,21.11
+2026,ureia_ncm_31021010,Omã,oma_fora_do_estreito,173072372,422468.5,409.7,11.96
+2026,ureia_ncm_31021010,Argélia,resto_do_mundo,144841559,314335.3,460.8,8.9
+2026,ureia_ncm_31021010,Venezuela,resto_do_mundo,128434517,289211.7,444.1,8.19
+2026,ureia_ncm_31021010,Catar,dentro_do_golfo,92067504,215024.3,428.2,6.09
+2026,ureia_ncm_31021010,Bolívia,resto_do_mundo,85478798,202980.0,421.1,5.75
+2026,ureia_ncm_31021010,Uzbequistão,resto_do_mundo,50404562,115658.0,435.8,3.27
+2026,ureia_ncm_31021010,Emirados Árabes Unidos,dentro_do_golfo,35767925,95170.4,375.8,2.69
+2026,ureia_ncm_31021010,China,resto_do_mundo,35345896,76510.9,462.0,2.17
+2026,ureia_ncm_31021010,Alemanha,resto_do_mundo,35103941,71639.9,490.0,2.03
+2026,ureia_ncm_31021010,Irã,dentro_do_golfo,21570990,62721.7,343.9,1.78
+2026,ureia_ncm_31021010,Barein,dentro_do_golfo,20093507,49777.5,403.7,1.41
+2026,ureia_ncm_31021010,Estados Unidos,resto_do_mundo,13843106,32886.7,420.9,0.93
+2026,ureia_ncm_31021010,Arábia Saudita,dentro_do_golfo,6776523,14229.6,476.2,0.4
+2026,ureia_ncm_31021010,Egito,resto_do_mundo,7112453,13157.0,540.6,0.37
+2026,ureia_ncm_31021010,Países Baixos (Holanda),resto_do_mundo,2561809,4592.9,557.8,0.13
+2026,ureia_ncm_31021010,Hong Kong,resto_do_mundo,2024146,4144.1,488.4,0.12
+2026,ureia_ncm_31021010,França,resto_do_mundo,2134762,3750.0,569.3,0.11
+2026,ureia_ncm_31021010,Turcomenistão,resto_do_mundo,480375,1087.7,441.6,0.03
+2026,ureia_ncm_31021010,Suíça,resto_do_mundo,313134,616.0,508.3,0.02
+2026,ureia_ncm_31021010,Espanha,resto_do_mundo,27607,60.0,460.1,0.0
+2026,ureia_ncm_31021010,Tailândia,resto_do_mundo,22410,54.0,415.0,0.0
+2026,ureia_ncm_31021010,Peru,resto_do_mundo,11949,6.6,1810.5,0.0
+2026,ureia_ncm_31021010,Ucrânia,resto_do_mundo,5271,1.0,5271.0,0.0

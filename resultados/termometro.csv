@@ -1,0 +1,27 @@
+pais,iso3,continente,prazo_min_dias,prazo_max_dias,km_russia,menciona_guerra
+Reino Unido,GBR,Europa,3.0,3.0,1415.0,nao
+Irlanda,IRL,Europa,3.0,3.0,1748.0,nao
+França,FRA,Europa,3.0,3.0,1396.0,sim
+Alemanha,DEU,Europa,3.0,10.0,528.0,sim
+Holanda,NLD,Europa,3.0,3.0,1059.0,sim
+Dinamarca,DNK,Europa,3.0,3.0,513.0,nao
+Noruega,NOR,Europa,7.0,7.0,819.0,sim
+Suécia,SWE,Europa,7.0,7.0,532.0,sim
+Finlândia,FIN,Europa,3.0,3.0,302.0,sim
+Estônia,EST,Europa,7.0,7.0,314.0,sim
+Letônia,LVA,Europa,3.0,7.0,340.0,sim
+Lituânia,LTU,Europa,3.0,3.0,308.0,sim
+Polônia,POL,Europa,7.0,7.0,280.0,sim
+República Tcheca,CZE,Europa,3.0,3.0,657.0,nao
+Áustria,AUT,Europa,10.0,14.0,776.0,nao
+Suíça,CHE,Europa,7.0,7.0,1261.0,nao
+Croácia,HRV,Europa,2.0,2.0,1040.0,nao
+Canadá,CAN,América do Norte,3.0,3.0,6394.0,nao
+Chile,CHL,América do Sul,2.0,3.0,13048.0,nao
+Argentina,ARG,América do Sul,1.0,1.0,12435.0,nao
+Japão,JPN,Ásia,3.0,7.0,1060.0,nao
+Taiwan,TWN,Ásia,7.0,7.0,2225.0,sim
+Israel,ISR,Ásia,3.0,3.0,2675.0,nao
+Singapura,SGP,Ásia,14.0,14.0,5420.0,sim
+Nova Zelândia,NZL,Oceania,3.0,3.0,10321.0,nao
+Bélgica,BEL,Europa,3.0,3.0,1164.0,nao

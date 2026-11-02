@@ -1,0 +1,121 @@
+momento,pais,data,sinal,valor,fonte,captura,trecho_curto,observacao
+UK-1939,Reino Unido,1939-02,evacuacao_civis,sim,https://en.wikipedia.org/wiki/Operation_Pied_Piper,si-uk-1939-wiki-evac,Anderson's committee requested a survey of housing,Plano em curso; retirada em set/1939.
+UK-1939,Reino Unido,1939-02,racionamento_lei_abastecimento,parcial,https://en.wikipedia.org/wiki/Rationing_in_the_United_Kingdom,si-uk-1939-wiki-rationing,50 million ration books were already printed,Livros prontos só em ago/1939; racionamento em jan/1940.
+UK-1939,Reino Unido,1939-02,convocacao_mobilizacao,parcial,https://en.wikipedia.org/wiki/Military_Training_Act_1939,si-uk-1939-wiki-conscr,26 May 1939,Lei de treinamento militar três meses depois do momento.
+UK-1939,Reino Unido,1939-02,retirada_diplomatas_aviso_sair,sem_dado,,,,sem fonte lida
+UK-1939,Reino Unido,1939-02,mascara_iodo_abrigos_publicos,sim,https://thehistorypress.co.uk/article/shelter-at-home-in-the-second-world-war/,si-uk-1939-historypress,Everyone (even babies) was issued with a rubber gas mask,Anderson a partir de fev/1939; máscaras desde 1938.
+UK-1939,Reino Unido,1939-02,compra_grao_combustivel,parcial,https://api.parliament.uk/historic-hansard/commons/1939/feb/02/emergency-food-storage,hansard-1939-fev,policy of ensuring that adequate supplies of food will be available,Compra pública não lida; só a política.
+UK-1939,Reino Unido,1939-02,salto_gasto_militar_2pts,sim,https://www.cityam.com/?p=2147908,si-uk-1939-cityam,2.2 per cent of GDP in 1933 to 6.8 per cent,"Chatham dá 3,8% do PNB em 1937 (si-uk-1939-chatham). Salto mistura medidas."
+UK-1939,Reino Unido,1939-02,lei_poderes_emergencia,parcial,https://en.wikipedia.org/wiki/Emergency_Powers_(Defence)_Act_1939,si-uk-1939-wiki-epa,24 August 1939,"Lei seis meses depois; no momento, não acionada."
+UK-1939,Reino Unido,1939-02,hospitais_sangue,parcial,https://en.wikipedia.org/wiki/Emergency_Hospital_Service,si-uk-1939-wiki-emh,"2,378 hospitals were included in the scheme",Em plano; operou na eclosão.
+UK-1939,Reino Unido,1939-02,mudanca_sede_governo,parcial,https://en.wikipedia.org/wiki/Paddock_(war_rooms),si-uk-1939-wiki-yellowmove,Paddock (war rooms),Construído em jan/1939. Bunker alternativo; sem mudança.
+US-1961,EUA,1961-09,evacuacao_civis,nao,https://www.nps.gov/articles/coldwar_civildefense_kennedyrockefellerandcd.htm,nps-kennedy-1961,,"Política era abrigo, não retirada. Sem frase explícita lida."
+US-1961,EUA,1961-09,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+US-1961,EUA,1961-09,convocacao_mobilizacao,parcial,https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961,si-us-1961-wiki-berlin,"148,000 Guardsmen and Reservists to active duty","Limitada, não ampla."
+US-1961,EUA,1961-09,retirada_diplomatas_aviso_sair,sem_dado,,,,busca não achou dependentes do Departamento de Estado
+US-1961,EUA,1961-09,mascara_iodo_abrigos_publicos,parcial,https://en.wikipedia.org/wiki/Fallout_shelter,wikipedia-fallout-shelter,started the Community Fallout Shelter Program,Programa começava; construção privada rejeitada (nps-kennedy-1961).
+US-1961,EUA,1961-09,compra_grao_combustivel,sem_dado,,,,sem fonte lida
+US-1961,EUA,1961-09,salto_gasto_militar_2pts,nao,https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961,si-us-1961-wiki-berlin,,"Acréscimo de US$ 3,25 bi; PIB não capturado, ordem de 0,6 ponto."
+US-1961,EUA,1961-09,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+US-1961,EUA,1961-09,hospitais_sangue,sem_dado,,,,sem fonte lida
+US-1961,EUA,1961-09,mudanca_sede_governo,parcial,https://en.wikipedia.org/wiki/Fallout_shelter,wikipedia-fallout-shelter,Project Greek Island,Abrigo para altos funcionários; sem mudança.
+UK-1980,Reino Unido,1980-05,evacuacao_civis,nao,https://api.parliament.uk/historic-hansard/commons/1980/aug/07/civil-defence,si-uk-1980-whitelaw,dispersal is not a practicable policy,Fala de ago/1980.
+UK-1980,Reino Unido,1980-05,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+UK-1980,Reino Unido,1980-05,convocacao_mobilizacao,sem_dado,,,,sem fonte lida
+UK-1980,Reino Unido,1980-05,retirada_diplomatas_aviso_sair,sem_dado,,,,sem fonte lida
+UK-1980,Reino Unido,1980-05,mascara_iodo_abrigos_publicos,parcial,https://api.parliament.uk/historic-hansard/commons/1980/aug/07/civil-defence,si-uk-1980-whitelaw,a survey of existing structures suitable for communal shelter,Só levantamento e projetos de abrigo familiar.
+UK-1980,Reino Unido,1980-05,compra_grao_combustivel,parcial,https://www.subbrit.org.uk/features/civil-defence-in-the-1980s/,si-uk-1980-subbrit,New information for farmers and on emergency feeding,"Informação, não compra."
+UK-1980,Reino Unido,1980-05,salto_gasto_militar_2pts,sem_dado,,,,civil: de 27 para 45 milhões de libras; PIB não lido
+UK-1980,Reino Unido,1980-05,lei_poderes_emergencia,parcial,https://www.subbrit.org.uk/features/civil-defence-in-the-1980s/,si-uk-1980-subbrit,Regional Commissioner with full powers,Plano de papel.
+UK-1980,Reino Unido,1980-05,hospitais_sangue,sem_dado,,,,sem fonte lida
+UK-1980,Reino Unido,1980-05,mudanca_sede_governo,parcial,https://www.subbrit.org.uk/features/civil-defence-in-the-1980s/,si-uk-1980-subbrit,SRHQs or RGHQs themselves were substantially improved,Sedes regionais em plano.
+UA-2022,Ucrânia,2022-01,evacuacao_civis,parcial,https://www.stripes.com/theaters/europe/2022-02-05/kyiv-question-where-hide-if-war-arrives-4688889.html,ep-ucrania-stripes-2022,Kyiv schools have begun holding evacuations drills,Exercícios; sem ordem.
+UA-2022,Ucrânia,2022-01,racionamento_lei_abastecimento,nao,https://talkingpointsmemo.com/news/russian-invasion-talk-mounts-ukrainian-officials-urge-everyone-to-please-calm-down,si-ua-2022-tpm,,Governo pedia calma contra pânico.
+UA-2022,Ucrânia,2022-01,convocacao_mobilizacao,nao,https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine,si-ua-2022-emerg,ordered the conscription of army reservists,"Só em 22 e 23/fev/2022, dias antes."
+UA-2022,Ucrânia,2022-01,retirada_diplomatas_aviso_sair,sim,https://www.pbs.org/newshour/world/u-s-orders-families-of-ukraine-embassy-to-leave-country-as-war-fears-mount,si-ua-2022-pbs,ordered the families of all American personnel,"23/jan/2022, ato dos EUA, não da Ucrânia."
+UA-2022,Ucrânia,2022-01,mascara_iodo_abrigos_publicos,parcial,https://www.stripes.com/theaters/europe/2022-02-05/kyiv-question-where-hide-if-war-arrives-4688889.html,ep-ucrania-stripes-2022,map of Cold War-era blast bunkers,Mapa de bunkers velhos.
+UA-2022,Ucrânia,2022-01,compra_grao_combustivel,sem_dado,,,,sem fonte lida
+UA-2022,Ucrânia,2022-01,salto_gasto_militar_2pts,nao,https://www.sipri.org/sites/default/files/2023-04/2304_fs_milex_2022.pdf,si-ua-2022-gdp,34 per cent of GDP in 2022,Salto só depois da invasão.
+UA-2022,Ucrânia,2022-01,lei_poderes_emergencia,nao,https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine,si-ua-2022-emerg,30-day nationwide state of emergency,Só em 23/fev/2022.
+UA-2022,Ucrânia,2022-01,hospitais_sangue,parcial,https://www.stripes.com/theaters/europe/2022-02-05/kyiv-question-where-hide-if-war-arrives-4688889.html,ep-ucrania-stripes-2022,has tested mobile hospitals,Teste.
+UA-2022,Ucrânia,2022-01,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,convocacao_mobilizacao,nao,https://ukdefencejournal.org.uk/households-asked-to-prepare-for-three-days-of-disruption/,ukdefence-tres-dias,No plans to bring back any form of national service,Só título em matéria lida.
+HOJE-UK,Reino Unido,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-UK,Reino Unido,2026-11,mascara_iodo_abrigos_publicos,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,compra_grao_combustivel,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,salto_gasto_militar_2pts,nao,https://www.al-monitor.com/originals/2026/07/five-nato-members-seen-spend-over-35-gdp-core-defence-year-alliance-estimates,si-nato-2026-almonitor,United Kingdon at 2.56%,"Era 2,3% em 2024."
+HOJE-UK,Reino Unido,2026-11,lei_poderes_emergencia,parcial,https://ukdefencejournal.org.uk/households-asked-to-prepare-for-three-days-of-disruption/,ukdefence-tres-dias,Defence Readiness Bill,"Anunciada, sem aprovação."
+HOJE-UK,Reino Unido,2026-11,hospitais_sangue,sem_dado,,,,sem fonte lida
+HOJE-UK,Reino Unido,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-DE,Alemanha,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-DE,Alemanha,2026-11,racionamento_lei_abastecimento,parcial,https://www.egyptindependent.com/mandatory-conscription-and-subway-stations-as-bunkers-germany-outlines-wartime-plans/,si-hoje-de-cnn,Rationing would also be brought in,"Plano de jun/2024, sob guerra."
+HOJE-DE,Alemanha,2026-11,convocacao_mobilizacao,parcial,https://www.defensenews.com/global/europe/2025/12/05/german-parliament-approves-conscription-scheme-to-boost-the-bundeswehr/,si-hoje-de-defnews,There are no plans for mandatory conscription,Questionário e exame obrigatórios desde 2026; serviço voluntário.
+HOJE-DE,Alemanha,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-DE,Alemanha,2026-11,mascara_iodo_abrigos_publicos,parcial,https://www.money.it/germania-sta-preparando-bunker-guerra-ora-considera-possibile,si-hoje-de-money,modernizzazione dei bunker,Sem rede de abrigos nova.
+HOJE-DE,Alemanha,2026-11,compra_grao_combustivel,parcial,https://www.egyptindependent.com/mandatory-conscription-and-subway-stations-as-bunkers-germany-outlines-wartime-plans/,si-hoje-de-cnn,one hot meal a day,Reserva existente; compra de emergência não lida.
+HOJE-DE,Alemanha,2026-11,salto_gasto_militar_2pts,nao,https://www.al-monitor.com/originals/2026/07/five-nato-members-seen-spend-over-35-gdp-core-defence-year-alliance-estimates,si-nato-2026-almonitor,Germany is at 2.69%,"Era 2,22% em 2025."
+HOJE-DE,Alemanha,2026-11,lei_poderes_emergencia,sem_dado,,,,Notstandsgesetze não lidas
+HOJE-DE,Alemanha,2026-11,hospitais_sangue,parcial,https://background.tagesspiegel.de/gesundheit-und-e-health/briefing/gesundheitssicherstellungsgesetz-kommt-nur-langsam-voran,si-hoje-de-tagesspiegel,Gesundheitssicherstellungsgesetz kommt nur langsam voran,Lei em rascunho.
+HOJE-DE,Alemanha,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-PL,Polônia,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-PL,Polônia,2026-11,racionamento_lei_abastecimento,parcial,https://www.pravda.com.ua/eng/news/2026/10/06/8056709/,si-hoje-pl-pravda,stockpiling reserves for critical situations,"Programa, sem lei acionada."
+HOJE-PL,Polônia,2026-11,convocacao_mobilizacao,parcial,https://www.arabnews.com/node/2593238/world,si-hoje-pl-training,voluntary military training,100 mil voluntários em 2027.
+HOJE-PL,Polônia,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-PL,Polônia,2026-11,mascara_iodo_abrigos_publicos,sim,https://www.pap.pl/en/news/warsaw-approves-civil-defence-initiative-valued-billions,si-hoje-pl-pap,construction and renovation of shelters,"Programa 2027-31 de PLN 102,4 bi (si-hoje-pl-pravda)."
+HOJE-PL,Polônia,2026-11,compra_grao_combustivel,sem_dado,,,,sem fonte lida
+HOJE-PL,Polônia,2026-11,salto_gasto_militar_2pts,nao,https://www.al-monitor.com/originals/2026/07/five-nato-members-seen-spend-over-35-gdp-core-defence-year-alliance-estimates,si-nato-2026-almonitor,Poland (4.68%),"Era 4,3% em 2025; o salto grande foi antes de 2024."
+HOJE-PL,Polônia,2026-11,lei_poderes_emergencia,parcial,https://www.pap.pl/en/news/warsaw-approves-civil-defence-initiative-valued-billions,si-hoje-pl-pap,Civil Protection and Defence Act,"Em vigor desde 2025, sem estado de emergência."
+HOJE-PL,Polônia,2026-11,hospitais_sangue,sem_dado,,,,sem fonte lida
+HOJE-PL,Polônia,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-SE,Suécia,2026-11,evacuacao_civis,parcial,https://en.wikipedia.org/wiki/If_the_war_comes,wikipedia-om-kriget-kommer,how to act during an evacuation,Só no folheto.
+HOJE-SE,Suécia,2026-11,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+HOJE-SE,Suécia,2026-11,convocacao_mobilizacao,sem_dado,,,,sem fonte lida
+HOJE-SE,Suécia,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-SE,Suécia,2026-11,mascara_iodo_abrigos_publicos,parcial,https://government.se/tx/2168,si-hoje-se-gov,renovating Sweden’s protective shelters,Abrigos já existem; renovação.
+HOJE-SE,Suécia,2026-11,compra_grao_combustivel,sim,https://www.thelocal.se/20251014/sweden-to-establish-emergency-grain-stocks-in-north,si-hoje-se-thelocal,invest 575 million kronor,"Grão, sem combustível; estoque novo, não emergência."
+HOJE-SE,Suécia,2026-11,salto_gasto_militar_2pts,sem_dado,,,,SIPRI e NATO capturados sem o número sueco
+HOJE-SE,Suécia,2026-11,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+HOJE-SE,Suécia,2026-11,hospitais_sangue,parcial,https://government.se/tx/2168,si-hoje-se-gov,better stockpiling of health care products,
+HOJE-SE,Suécia,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-FI,Finlândia,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-FI,Finlândia,2026-11,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+HOJE-FI,Finlândia,2026-11,convocacao_mobilizacao,parcial,https://nordicdefencesector.com/en/article/finland-raises-age-limit-for-reservists-to-65-years-from-2026,si-hoje-fi-nordic,maximum age for reservists to 65,Sem convocação; ordem de mobilização atualizada (si-hoje-fi-pr).
+HOJE-FI,Finlândia,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-FI,Finlândia,2026-11,mascara_iodo_abrigos_publicos,parcial,"https://polskieradio.pl/395/7991/Artykul/3683357,finnish-civil-defence-shelter-system-interview",si-hoje-fi-shelter,"around 50,500 civil defence shelters",Rede antiga.
+HOJE-FI,Finlândia,2026-11,compra_grao_combustivel,parcial,https://www.irishtimes.com/world/uk/2026/01/18/why-the-world-has-started-stockpiling-food-again,irish-times-estoque-mundo,began setting aside grain,Estoque permanente; não é compra de emergência.
+HOJE-FI,Finlândia,2026-11,salto_gasto_militar_2pts,sem_dado,,,,SIPRI e NATO capturados sem o número finlandês
+HOJE-FI,Finlândia,2026-11,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+HOJE-FI,Finlândia,2026-11,hospitais_sangue,sem_dado,,,,sem fonte lida
+HOJE-FI,Finlândia,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-US,EUA,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-US,EUA,2026-11,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+HOJE-US,EUA,2026-11,convocacao_mobilizacao,sem_dado,,,,sem fonte lida
+HOJE-US,EUA,2026-11,retirada_diplomatas_aviso_sair,sem_dado,,,,não buscado para esse caso
+HOJE-US,EUA,2026-11,mascara_iodo_abrigos_publicos,sem_dado,,,,"FORTRESS America é para bases, não para civis"
+HOJE-US,EUA,2026-11,compra_grao_combustivel,sem_dado,,,,FORTRESS cita combustível das bases; compra não lida
+HOJE-US,EUA,2026-11,salto_gasto_militar_2pts,nao,https://www.al-monitor.com/originals/2026/07/five-nato-members-seen-spend-over-35-gdp-core-defence-year-alliance-estimates,si-nato-2026-almonitor,The United States is estimated to be spending 3.17%,Caiu em relação a 2024.
+HOJE-US,EUA,2026-11,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+HOJE-US,EUA,2026-11,hospitais_sangue,nao,https://static.carahsoft.com/concrete/files/9917/9147/9980/Memorandum_Establishment_of_FORTRESS_America.pdf,memorando-hegseth-fortress,,"Pilares são energia, bases, espaço, suprimento; hospitais não citados no trecho lido."
+HOJE-US,EUA,2026-11,mudanca_sede_governo,sem_dado,,,,memorando cita continuidade de operações nas bases
+HOJE-JP,Japão,2026-11,evacuacao_civis,parcial,https://www.stripes.com/theaters/asia_pacific/2025-04-01/sakishima-evacuation-japan-taiwan-china-17327737.html,si-hoje-jp-stripes-a,"move 120,000 people from the country’s long chain",Plano para as ilhas Sakishima.
+HOJE-JP,Japão,2026-11,racionamento_lei_abastecimento,sem_dado,,,,sem fonte lida
+HOJE-JP,Japão,2026-11,convocacao_mobilizacao,sem_dado,,,,sem fonte lida
+HOJE-JP,Japão,2026-11,retirada_diplomatas_aviso_sair,sem_dado,,,,não buscado para esse caso
+HOJE-JP,Japão,2026-11,mascara_iodo_abrigos_publicos,parcial,https://www.stripes.com/theaters/asia_pacific/2025-07-02/japan-bomb-shelter-yonaguni-taiwan-18312065.html,si-hoje-jp-stripes-b,first of five planned,Primeiro abrigo para 200 pessoas até 2028.
+HOJE-JP,Japão,2026-11,compra_grao_combustivel,sem_dado,,,,sem fonte lida
+HOJE-JP,Japão,2026-11,salto_gasto_militar_2pts,nao,https://www.bloomberg.com/news/articles/2026-04-17/japan-sees-defense-budget-just-short-of-target-at-1-9-of-gdp,si-hoje-jp-bloomberg,equivalent to 1.9% of national gross domestic product,"Pedido de estoque de 02/nov cita desastre, não guerra (nikkei-boucho)."
+HOJE-JP,Japão,2026-11,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+HOJE-JP,Japão,2026-11,hospitais_sangue,sem_dado,,,,sem fonte lida
+HOJE-JP,Japão,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida
+HOJE-TW,Taiwan,2026-11,evacuacao_civis,sem_dado,,,,sem fonte lida
+HOJE-TW,Taiwan,2026-11,racionamento_lei_abastecimento,parcial,https://english.aawsat.com/world/5073616-preparing-chinese-blockade-taiwan-maps-out-wartime-food-plans,si-hoje-tw-food2,plans on rice rationing through supply stations,Plano para bloqueio; fonte de 2024.
+HOJE-TW,Taiwan,2026-11,convocacao_mobilizacao,parcial,https://focustaiwan.tw/politics/202606220022,si-hoje-tw-food,undergo a 14-day intensive training program,"Treinamento, sem mobilização."
+HOJE-TW,Taiwan,2026-11,retirada_diplomatas_aviso_sair,nao,,,,busca de 02/nov sem achado
+HOJE-TW,Taiwan,2026-11,mascara_iodo_abrigos_publicos,parcial,https://www.bairdmaritime.com/security/taiwan-distributes-security-handbook-to-homes-as-china-threat-rises,ep-taiwan-baird-2025,,Manual a todas as casas; construção pública não lida.
+HOJE-TW,Taiwan,2026-11,compra_grao_combustivel,parcial,https://english.aawsat.com/world/5073616-preparing-chinese-blockade-taiwan-maps-out-wartime-food-plans,si-hoje-tw-food2,rice stock piles were above a three-month level,Estoque permanente.
+HOJE-TW,Taiwan,2026-11,salto_gasto_militar_2pts,nao,https://www.mnd.gov.tw/en/Publication/129,si-hoje-tw-mnd,accounting for 3.32% of GDP,"Era 2,45% em 2025 (si-hoje-tw-aljaz); inclui nova contabilidade."
+HOJE-TW,Taiwan,2026-11,lei_poderes_emergencia,sem_dado,,,,sem fonte lida
+HOJE-TW,Taiwan,2026-11,hospitais_sangue,sem_dado,,,,sem fonte lida
+HOJE-TW,Taiwan,2026-11,mudanca_sede_governo,sem_dado,,,,sem fonte lida

@@ -1,0 +1,70 @@
+ano,produto,fonte,ultimo_mes,estoque_ultimo_mes_t,media_do_ano_t,t_jan,t_fev,t_mar,t_abr,t_mai,t_jun,t_jul,t_ago,t_set,t_out,t_nov,t_dez
+2015,Algodão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,27,31,37,37,37,37,37,27,27,27,27,27.0,27.0,27.0
+2015,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,115126,135790,240544,135717,134255,134126,128120,127970,124785,124777,124777,121038.0,118250.0,115126.0
+2016,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,29480,72951,110388,92260,92276,85734,84665,84549,84545,84545,68411,29080.0,29480.0,29480.0
+2017,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,22360,22953,29480,22360,22360,22360,22360,22360,22360,22360,22360,22360.0,22360.0,22360.0
+2018,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,24897,31477,22360,22360,22360,22360,22360,39899,43025,43025,43025,37629.0,34425.0,24897.0
+2019,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,21592,21867,24896,21592,21592,21592,21592,21592,21592,21592,21592,21592.0,21592.0,21592.0
+2020,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,21556,21589,21592,21592,21592,21592,21592,21592,21592,21592,21592,21592.0,21592.0,21556.0
+2021,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,5221,19161,21556,21556,21556,21556,21556,21556,21556,21556,21556,21556.0,9148.0,5221.0
+2022,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1759,1763,1770,1770,1770,1770,1759,1759,1759,1759,1759,1759.0,1759.0,1759.0
+2023,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2024,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,416,80,0,0,0,0,0,0,0,0,0,60.0,490.0,416.0
+2025,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,223511,55109,499,448,247,201,166,8006,11372,13890,79589,131631.0,191746.0,223511.0
+2026,Arroz,"Conab, Série histórica de estoques públicos, setembro de 2026",SET,293997,286651,246125,277440,293552,293524,293565,293906,293800,293949,293997,,,
+2015,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,94383,95395,97134,97134,97134,97134,95364,94534,94395,94383,94383,94383.0,94383.0,94383.0
+2016,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,40774,74431,92809,90600,89398,82279,82317,82342,82342,75365,68646,60090.0,46210.0,40774.0
+2017,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,3,8883,41069,33961,15274,15274,353,263,377,17,3,3.0,3.0,3.0
+2018,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,31,15,2,2,2,5,5,6,3,31,31,31.0,31.0,31.0
+2019,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,31,31,31,31,31,31,31,31,31,31,31,31.0,31.0,31.0
+2020,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,31,31,31,31,31,31,31,31,31,31,31,31.0,31.0,31.0
+2021,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+2022,Café,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1,1,1,1,1,1,1,1,1,1,1,1.0,1.0,1.0
+2015,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,15601,4560,67,67,48,45,28,1,0,2339,7615,13363.0,15542.0,15601.0
+2016,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,7853,13671,15601,15601,15601,15601,15601,15601,14549,14549,14616,10710.0,8166.0,7853.0
+2017,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,1212,5403,3114,1950,766,683,683,683,683,577,8.0,0.0,0.0
+2018,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,28,4,0,0,0,0,0,0,0,0,0,0.0,21.0,28.0
+2019,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,28,28,28,28,28,28,28,28,28,28,28,28.0,28.0,28.0
+2020,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,28,28,28,28,28,28,28,28,28,28,28,28.0,28.0,28.0
+2021,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,2,28,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2022,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2023,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2024,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,62,28,0,0,0,0,0,0,0,0,169,55.0,47.0,62.0
+2025,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,3138,511,118,0,58,118,132,231,272,293,281,697.0,790.0,3138.0
+2026,Farinha de Mandioca,"Conab, Série histórica de estoques públicos, setembro de 2026",SET,4543,4447,4269,4269,4229,4543,4543,4543,4543,4543,4543,,,
+2015,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,10046,40053,64238,64174,63728,58714,55377,44358,34631,30340,23624,18785.0,12624.0,10046.0
+2016,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,1728,9931,5873,2490,1163,1037,222,18,3,0,0.0,0.0,0.0
+2017,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2018,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2019,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2020,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2021,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2022,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2023,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,45000,3750,0,0,0,0,0,0,0,0,0,0.0,0.0,45000.0
+2024,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,67,3784,45000,0,100,0,0,0,0,0,108,66.0,65.0,67.0
+2025,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,120,195,38,71,110,112,237,180,278,350,308,290.0,249.0,120.0
+2026,Feijão,"Conab, Série histórica de estoques públicos, setembro de 2026",SET,272,150,53,37,44,60,186,231,207,264,272,,,
+2015,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1490975,1558113,1617597,1614801,1604238,1592234,1582840,1573229,1557824,1542968,1524997,1505812.0,1489838.0,1490975.0
+2016,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,704168,924012,1467092,1303463,986298,937928,899007,891669,872520,819511,769129,723850.0,713503.0,704168.0
+2017,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1357917,850867,691503,681528,665584,641924,626251,606698,598076,797701,779868,1392912.0,1370443.0,1357917.0
+2018,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,798266,1027796,1336984,1304928,1299958,1274859,1183092,942958,899767,848502,824100,819463.0,800672.0,798266.0
+2019,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,359669,647193,780950,775084,759176,735208,678723,669831,661610,655697,649350,564169.0,476845.0,359669.0
+2020,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,129139,205780,311632,300949,239897,230069,218438,212701,196250,183692,161727,153394.0,131473.0,129139.0
+2021,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,35091,60096,111268,104110,91975,73509,59711,56171,46947,38925,35832,34770.0,32845.0,35091.0
+2022,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,50878,52975,33898,38013,69872,69587,67024,63228,59430,53401,48758,43081.0,38535.0,50878.0
+2023,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,350067,120173,50912,56579,56616,54760,49985,47191,42285,76842,142934,197892.0,316012.0,350067.0
+2024,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,229543,288766,350201,327962,323031,314484,309673,300282,285579,278930,261477,252612.0,231412.0,229543.0
+2025,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,119361,157293,207606,200084,199280,184012,175081,163997,150624,133785,118885,111561.0,123238.0,119361.0
+2026,Milho,"Conab, Série histórica de estoques públicos, setembro de 2026",SET,108678,128178,108980,93473,162048,149242,146830,139937,125525,118892,108678,,,
+2015,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000.0,15000.0,15000.0
+2016,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000,15000.0,15000.0,15000.0
+2017,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,16200,15243,15000,15000,15000,15000,15000,15000,15000,15000,15000,15517.0,16200.0,16200.0
+2018,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,2850,11613,14642,11757,13407,13407,13407,13407,13407,13407,13407,13407.0,2850.0,2850.0
+2019,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,2850,2850,2850,2850,2850,2850,2850,2850,2850,2850,2850,2850.0,2850.0,2850.0
+2020,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,1649,1749,2849,1649,1649,1649,1649,1649,1649,1649,1649,1649.0,1649.0,1649.0
+2021,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,1512,1649,1649,1649,1649,1649,1649,1649,1649,1649,1649.0,1649.0,0.0
+2022,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2023,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2024,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0
+2025,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",DEZ,6582,5884,0,4793,6582,6582,6582,6582,6582,6582,6582,6582.0,6582.0,6582.0
+2026,Trigo,"Conab, Série histórica de estoques públicos, setembro de 2026",SET,6582,6582,6582,6582,6582,6582,6582,6582,6582,6582,6582,,,

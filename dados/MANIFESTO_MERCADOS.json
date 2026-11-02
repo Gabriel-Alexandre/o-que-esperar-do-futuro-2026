@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=russia+nato&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/russia_nato.json",
+    "hora": "2026-11-02T09:53:04-03:00",
+    "sha256": "190d6097223ccc4b2b7385de71946c34d95e0d2cbfb06559f457a839d49aaaab",
+    "bytes": 159171
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=russia+invade&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/russia_invade.json",
+    "hora": "2026-11-02T09:53:06-03:00",
+    "sha256": "a0097ecb88d916f02d7798f78691258c6f51ff18e0fc306cde264a395ea4baf3",
+    "bytes": 27236
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=world+war&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/world_war.json",
+    "hora": "2026-11-02T09:53:07-03:00",
+    "sha256": "7921f8742cece47f418fc7cc33566de71fd84b3140a4a8912527ec1d79eb53c7",
+    "bytes": 285837
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=nato+article+5&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/nato_article_5.json",
+    "hora": "2026-11-02T09:53:09-03:00",
+    "sha256": "ac76452344d52a57b892ceceda592dc0a0b9530dcbc3ba14291c1a151e208d36",
+    "bytes": 6328
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=china+taiwan&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/china_taiwan.json",
+    "hora": "2026-11-02T09:53:11-03:00",
+    "sha256": "9460149f4ff15cef4e91443c8a9c21bb42895499be8a08c0abf46c2b0ff8d475",
+    "bytes": 161145
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=taiwan+invade&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/taiwan_invade.json",
+    "hora": "2026-11-02T09:53:12-03:00",
+    "sha256": "20b52d6e6857f4a7644d8f62ec3a576a3e184749609783f7e6dd67095be1d870",
+    "bytes": 20659
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=iran+ceasefire&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/iran_ceasefire.json",
+    "hora": "2026-11-02T09:53:14-03:00",
+    "sha256": "f3f13797629b415c143f14a59b96fde8899f31a2d34e483baf2b988fef252fd5",
+    "bytes": 1423308
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=strait+of+hormuz&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/strait_of_hormuz.json",
+    "hora": "2026-11-02T09:53:17-03:00",
+    "sha256": "46952f65e5d07d71f38b97705e1cc96e5d48ee7fa8dc0c01621dfc6cacd4ea6b",
+    "bytes": 1047471
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=nuclear+weapon&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/nuclear_weapon.json",
+    "hora": "2026-11-02T09:53:18-03:00",
+    "sha256": "dbee951677591634b0b429559588ad6c587b78dc13336fa5bb5660b18ccaa55a",
+    "bytes": 49557
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=oil+price&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/oil_price.json",
+    "hora": "2026-11-02T09:53:20-03:00",
+    "sha256": "0b5d164417e77320bc69459b636946a78c1f655436959e5f22296207b8f74fd1",
+    "bytes": 276956
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=cyberattack&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/cyberattack.json",
+    "hora": "2026-11-02T09:53:21-03:00",
+    "sha256": "490a0b6579893fa0084506cedad1c5d6479c2fe4f0b3ad07bf743d863f8e3e5d",
+    "bytes": 50
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=blackout&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/blackout.json",
+    "hora": "2026-11-02T09:53:23-03:00",
+    "sha256": "a52cebd3399f2a0ca71dc75447c74ca2f7f4992fb6b34d5d3e095207cf883cd8",
+    "bytes": 20255
+  },
+  {
+    "url": "https://gamma-api.polymarket.com/public-search?q=us+iran&limit_per_type=25&events_status=active",
+    "arquivo": "dados/brutos/mercados/2026-11-02/us_iran.json",
+    "hora": "2026-11-02T09:53:25-03:00",
+    "sha256": "444da595518f5029f59ff737ccc07cfcfa7dd4dd770e8982cfe449175093817d",
+    "bytes": 1177833
+  }
+]
