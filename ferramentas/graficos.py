@@ -153,17 +153,16 @@ def g07():
 def g08():
     r = pd.read_csv(DER / "brasil_fertilizantes_resumo.csv")
     u = r[r.recorte.str.contains("ureia", case=False) & (r.ano >= 2019)]
-    f, a = nova("O Brasil depende do Golfo? Depende de como se conta", "Ureia importada por origem. A base dá o país, não o porto; Omã tem fábrica fora do estreito", top=0.8)
+    f, a = nova("O Brasil depende do Golfo? Depende da conta", "Ureia importada por origem. A base dá o país, não o porto; Omã tem fábrica fora do estreito", top=0.8)
     anos = u.ano.astype(str).where(u.ano < 2026, "2026 parcial")
     a.bar(anos, u.fatia_dentro_do_golfo_pct, color=TIJOLO, label="dentro do Golfo", width=0.6)
     a.bar(anos, u.fatia_oma_pct, bottom=u.fatia_dentro_do_golfo_pct, color=OURO, label="Omã", width=0.6)
     for x, g, o in zip(anos, u.fatia_dentro_do_golfo_pct, u.fatia_oma_pct):
         a.text(x, g + o + 0.8, f"{g + o:.0f}%".replace(".", ","), ha="center", fontsize=22, color=TINTA, bbox=dict(fc="white", ec="none", pad=1), zorder=5)
-    a.axhline(41, color=TINTA, lw=2, ls="--")
-    a.text(7.4, 42, "41%: consultoria, pelo caminho do navio", fontsize=20, color=TINTA, ha="right")
+    a.axhline(41, color=TINTA, lw=2, ls="--", label="41%: consultoria, pelo caminho do navio")
     a.legend(frameon=False, fontsize=20, loc="upper right")
     a.set_ylabel("% das toneladas")
-    a.set_ylim(0, 60)
+    a.set_ylim(0, 72)
     salvar(f, "g08_ureia_golfo", "ComexStat/MDIC, 2026 de janeiro a setembro; conferido contra o Comtrade")
 
 
@@ -188,7 +187,7 @@ def g09():
 def g10():
     i = pd.read_csv(DER / "brasil_ipca_alimentos.csv")
     i = i[i.mes >= "2019-01"]
-    f, a = nova("A comida no Brasil subiu de zero para 4,2% desde a guerra", "Alimentação no domicílio, em 12 meses. A causa não está separada; a S&P vê o efeito do adubo em 2027", top=0.8)
+    f, a = nova("A comida subiu de zero para 4,2% desde a guerra", "Alimentação no domicílio, em 12 meses; a causa não está separada", top=0.8)
     y = i.alim_dom_12m_pct.fillna(i.alim_dom_12m_recalculado_pct)
     a.plot(i.mes, y, color=TIJOLO, lw=4)
     a.set_xticks(range(0, len(i), 12), i.mes[::12], fontsize=18)
